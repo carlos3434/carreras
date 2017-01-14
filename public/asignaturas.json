@@ -1,0 +1,46 @@
+{
+    "1": {
+        "id":"1",
+        "nombre": "ADMINISTRACION",
+        "asignaturas": {
+            "1":{
+                "id":"1",
+                "nombre": "MATEMATICA BASICA"
+            },
+            "2":{
+                "id":"2",
+                "nombre": "COMUNICACION I"
+            },
+            "3":{
+                "id":"3",
+                "nombre": "FILOSOFIA"
+            },
+            "3":{
+                "id":"4",
+                "nombre": "METODOLOGIA DEL TRABAJO UNIVERSITARIO"
+            }
+        }
+    },
+    "2": {
+        "id":"2",
+        "nombre": "ADMINISTRACION DE NEGOCIOS TURISTICOS Y HOTELEROS",
+        "asignaturas": {
+            "1":{
+                "id":"1",
+                "nombre": "MATEMATICA BASICA"
+            },
+            "2":{
+                "id":"2",
+                "nombre": "COMUNICACION I"
+            },
+            "3":{
+                "id":"3",
+                "nombre": "FILOSOFIA"
+            },
+            "3":{
+                "id":"4",
+                "nombre": "METODOLOGIA DEL TRABAJO UNIVERSITARIO"
+            }
+        }
+    }
+}
