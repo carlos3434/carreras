@@ -15,9 +15,233 @@
                 "id":"3",
                 "nombre": "FILOSOFIA"
             },
-            "3":{
+            "4":{
                 "id":"4",
                 "nombre": "METODOLOGIA DEL TRABAJO UNIVERSITARIO"
+            },
+            "5":{
+                "id":"5",
+                "nombre": "OFIMATICA EMPRESARIAL I "
+            },
+            "6":{
+                "id":"6",
+                "nombre": "INTRODUCCION A LA ADMINISTRACION,FINANZAS Y NEGOCIOS GLOBALES I"
+            },
+            "7":{
+                "id":"7",
+                "nombre": "ANALISIS MATEMATICO I"
+            },
+            "8":{
+                "id":"8",
+                "nombre": "COMUNICACION II"
+            },
+            "9":{
+                "id":"9",
+                "nombre": "ESTADISTICA GENERAL"
+            },
+            "10":{
+                "id":"10",
+                "nombre": "METODOLOGIA DE LA INVESTIGACION CIENTIFICA"
+            },
+            "11":{
+                "id":"11",
+                "nombre": "OFIMATICA EMPRESARIAL II"
+            },
+            "12":{
+                "id":"12",
+                "nombre": "ADMINISTRACION EMPRESARIAL"
+            },
+            "13":{
+                "id":"13",
+                "nombre": "ANALISIS MATEMATICO II"
+            },
+            "14":{
+                "id":"14",
+                "nombre": "COMPORTAMIENTO ORGANIZACIONAL"
+            },
+            "15":{
+                "id":"15",
+                "nombre": "DISEÑO ORGANIZACIONAL DE PROCESOS"
+            },
+            "16":{
+                "id":"16",
+                "nombre": "CONTABILIDAD BASICA I"
+            },
+            "17":{
+                "id":"17",
+                "nombre": "MARKETING ESTRATEGICO"
+            },
+            "18":{
+                "id":"18",
+                "nombre": "ECONOMIA EMPRESARIAL"
+            },
+            "19":{
+                "id":"19",
+                "nombre": "MATEMATICA FINANCIERA"
+            },
+            "20":{
+                "id":"20",
+                "nombre": "CONTABILIDAD BASICA II"
+            },
+            "21":{
+                "id":"21",
+                "nombre": "PROCESO DE LA GESTION ADMINISTRATIVA"
+            },
+            "22":{
+                "id":"22",
+                "nombre": "MARKETING INTERNACIONAL I"
+            },
+            "23":{
+                "id":"23",
+                "nombre": "COMPORTAMIENTO DEL CONSUMIDOR"
+            },
+            "24":{
+                "id":"24",
+                "nombre": "MICROECONOMIA"
+            },
+            "25":{
+                "id":"25",
+                "nombre": "INVESTIGACION OPERATIVA"
+            },
+            "26":{
+                "id":"26",
+                "nombre": "DERECHO SOCIETARIO Y COMERCIAL"
+            },
+            "27":{
+                "id":"27",
+                "nombre": "COSTOS I"
+            },
+            "28":{
+                "id":"28",
+                "nombre": "MACROECONOMIA"
+            },
+            "29":{
+                "id":"29",
+                "nombre": "GESTION DE NEGOCIOS INTERNACIONALES"
+            },
+            "30":{
+                "id":"30",
+                "nombre": "FINANZAS E INSTITUCIONES FINANCIERAS"
+            },
+            "31":{
+                "id":"31",
+                "nombre": "DERECHO LABORAL I"
+            },
+            "32":{
+                "id":"32",
+                "nombre": "ADMINISTRACION PUBLICA"
+            },
+            "33":{
+                "id":"33",
+                "nombre": "FISCALIZACION TRIBUTARIA"
+            },
+            "34":{
+                "id":"34",
+                "nombre": "COSTOS II"
+            },
+            "35":{
+                "id":"35",
+                "nombre": "FORMULACION Y EVALUACION DE PROYECTOS"
+            },
+            "36":{
+                "id":"36",
+                "nombre": "ECONOMETRIA ORIENTADA A LOS NEGOCIOS"
+            },
+            "37":{
+                "id":"37",
+                "nombre": "DERECHO ADUANERO"
+            },
+            "38":{
+                "id":"38",
+                "nombre": "DERECHO LABORAL II"
+            },
+            "39":{
+                "id":"39",
+                "nombre": "INGLES  I"
+            },
+            "40":{
+                "id":"40",
+                "nombre": "GESTION DE PROYECTOS"
+            },
+            "41":{
+                "id":"41",
+                "nombre": "GESTION  Y CANALES DE DISTRIBUCION LOGISTICA"
+            },
+            "42":{
+                "id":"42",
+                "nombre": "COMERCIO ELECTRONICO"
+            },
+            "43":{
+                "id":"43",
+                "nombre": "ADMINISTRACION DE LA PRODUCCION I"
+            },
+            "44":{
+                "id":"44",
+                "nombre": "INGLES  II"
+            },
+            "45":{
+                "id":"45",
+                "nombre": "FORMULACION Y ANALISIS DE ESTADOS FINANCIEROS"
+            },
+            "46":{
+                "id":"46",
+                "nombre": "ESTRATEGIA DE NEGOCIACION"
+            },
+            "47":{
+                "id":"47",
+                "nombre": "EVALUACION Y CONTROL EN LOS ORGANISMOS INTERNACIONALES"
+            },
+            "48":{
+                "id":"48",
+                "nombre": "FINANZAS CORPORATIVAS INTERNACIONALES"
+            },
+            "49":{
+                "id":"49",
+                "nombre": "DEONTOLOGIA PROFESIONAL"
+            },
+            "50":{
+                "id":"50",
+                "nombre": "SEMINARIO DE TESIS"
+            },
+            "51":{
+                "id":"51",
+                "nombre": "AUDITORIA I (FINANCIERA)"
+            },
+            "52":{
+                "id":"52",
+                "nombre": "ADMINISTRACION DE LA PRODUCCION II"
+            },
+            "53":{
+                "id":"53",
+                "nombre": "VALORACION DE ESTADOS FINANCIEROS"
+            },
+            "54":{
+                "id":"54",
+                "nombre": "INGLES   III"
+            },
+            "55":{
+                "id":"55",
+                "nombre": "AUDITORIA II (TRIBUTARIA)"
+            },
+            "56":{
+                "id":"56",
+                "nombre": "TALLER DE TESIS"
+            },
+            "57":{
+                "id":"57",
+                "nombre": "DERECHO TRIBUTARIO INTERNACIONAL"
+            },
+            "58":{
+                "id":"58",
+                "nombre": "SISTEMAS DE INFORMACION GERENCIAL"
+            },
+            "59":{
+                "id":"59",
+                "nombre": "PRESUPUESTO"
+            },
+            "60":{
+                "id":"60",
+                "nombre": "INGLES  IV"
             }
         }
     },
@@ -27,19 +251,3945 @@
         "asignaturas": {
             "1":{
                 "id":"1",
-                "nombre": "MATEMATICA BASICA"
+                "nombre":"MATEMATICA BASICA"
             },
             "2":{
                 "id":"2",
-                "nombre": "COMUNICACION I"
+                "nombre":"COMUNICACION I"
             },
             "3":{
                 "id":"3",
-                "nombre": "FILOSOFIA"
+                "nombre":"METODOLOGIA DEL TRABAJO UNIVERSITARIO"
+            },
+            "4":{
+                "id":"4",
+                "nombre":"HISTORIA UNIVERSAL DEL ARTE"
+            },
+            "5":{
+                "id":"5",
+                "nombre":"OFIMATICA EMPRESARIAL I"
+            },
+            "6":{
+                "id":"6",
+                "nombre":"REALIDAD PERUANA Y GLOBALIZACION"
+            },
+            "7":{
+                "id":"7",
+                "nombre":"HISTORIA DEL ARTE PERUANO "
+            },
+            "8":{
+                "id":"8",
+                "nombre":"METODOLOGIA DE LA INVESTIGACION CIENTIFICA"
+            },
+            "9":{
+                "id":"9",
+                "nombre":"COMUNICACION II"
+            },
+            "10":{
+                "id":"10",
+                "nombre":"ADMINISTRACION EMPRESARIAL"
+            },
+            "11":{
+                "id":"11",
+                "nombre":"OFIMATICA EMPRESARIAL II"
+            },
+            "12":{
+                "id":"12",
+                "nombre":"ARQUEOLOGIA PERUANA"
+            },
+            "13":{
+                "id":"13",
+                "nombre":"GEOGRAFIA TURISTICA MUNDIAL"
+            },
+            "14":{
+                "id":"14",
+                "nombre":"CIRCUITOS TURISTICOS"
+            },
+            "15":{
+                "id":"15",
+                "nombre":"CONTABILIDAD BASICA I"
+            },
+            "16":{
+                "id":"16",
+                "nombre":"MARKETING ESTRATEGICO"
+            },
+            "17":{
+                "id":"17",
+                "nombre":"ECONOMIA EMPRESARIAL"
+            },
+            "18":{
+                "id":"18",
+                "nombre":"GESTION Y TECNICAS DE RECEPCION Y RESERVA HOTELERA"
+            },
+            "19":{
+                "id":"19",
+                "nombre":"MATEMATICA FINANCIERA"
+            },
+            "20":{
+                "id":"20",
+                "nombre":"ESTADISTICA DESCRIPTIVA"
+            },
+            "21":{
+                "id":"21",
+                "nombre":"CONTABILIDAD BASICA II"
+            },
+            "22":{
+                "id":"22",
+                "nombre":"GEOGRAFIA TURISTICA PERUANA"
+            },
+            "23":{
+                "id":"23",
+                "nombre":"MICROECONOMIA"
+            },
+            "24":{
+                "id":"24",
+                "nombre":"PATRIMONIO TURISTICO"
+            },
+            "25":{
+                "id":"25",
+                "nombre":"MANEJO DEL TURISMO SUSTENTABLE"
+            },
+            "26":{
+                "id":"26",
+                "nombre":"COSTOS I"
+            },
+            "27":{
+                "id":"27",
+                "nombre":"OPERACIONES EN EMPRESAS DE HOSPITALIDAD"
+            },
+            "28":{
+                "id":"28",
+                "nombre":"MACROECONOMIA"
+            },
+            "29":{
+                "id":"29",
+                "nombre":"ARTE Y FOLKLORE PERUANO"
+            },
+            "30":{
+                "id":"30",
+                "nombre":"COSTOS II"
+            },
+            "31":{
+                "id":"31",
+                "nombre":"ORDENACION, PLANIFICACION Y DESARROLLO DEL TERRITORIO TURISTICO"
+            },
+            "32":{
+                "id":"32",
+                "nombre":"OPTIMIZACION EN TURISMO Y HOTELERIA"
+            },
+            "33":{
+                "id":"33",
+                "nombre":"FORMULACION Y EVALUACION DE PROYECTOS"
+            },
+            "34":{
+                "id":"34",
+                "nombre":"GESTION DEL TALENTO HUMANO"
+            },
+            "35":{
+                "id":"35",
+                "nombre":"ECONOMETRIA ORIENTADA A LOS NEGOCIOS"
+            },
+            "36":{
+                "id":"36",
+                "nombre":"INGLES  I"
+            },
+            "37":{
+                "id":"37",
+                "nombre":"GESTION DE SERVICIO AL CLIENTE"
+            },
+            "38":{
+                "id":"38",
+                "nombre":"MARKETING Y  PUBLICIDAD EN TURISMO"
+            },
+            "39":{
+                "id":"39",
+                "nombre":"DISEÑO Y EQUIPAMIENTO DE HOTELES Y RESTAURANTES"
+            },
+            "40":{
+                "id":"40",
+                "nombre":"GESTION DE PROYECTOS"
+            },
+            "41":{
+                "id":"41",
+                "nombre":"TURISMO Y MEDIO AMBIENTE"
+            },
+            "42":{
+                "id":"42",
+                "nombre":"TRANSPORTE TURISTICO"
+            },
+            "43":{
+                "id":"43",
+                "nombre":"INGLES  II"
+            },
+            "44":{
+                "id":"44",
+                "nombre":"GESTION DE NEGOCIOS INTERNACIONALES"
+            },
+            "45":{
+                "id":"45",
+                "nombre":"RELACIONES PUBLICAS, ETIQUETAS Y PROTOCOLO"
+            },
+            "46":{
+                "id":"46",
+                "nombre":"GASTRONOMIA PERUANA Y TURISMO"
+            },
+            "47":{
+                "id":"47",
+                "nombre":"ADMINISTRACION DE RESTAURANTES Y BARES"
+            },
+            "48":{
+                "id":"48",
+                "nombre":"INGLES  III"
+            },
+            "49":{
+                "id":"49",
+                "nombre":"ADMINISTRACION DE AGENCIA DE VIAJES"
+            },
+            "50":{
+                "id":"50",
+                "nombre":"DIRECCION DE ALIMENTOS Y BEBIDAS"
+            },
+            "51":{
+                "id":"51",
+                "nombre":"SEMINARIO DE TESIS"
+            },
+            "52":{
+                "id":"52",
+                "nombre":"DEONTOLOGIA PROFESIONAL"
+            },
+            "53":{
+                "id":"53",
+                "nombre":"AUDITORIA"
+            },
+            "54":{
+                "id":"54",
+                "nombre":"AVIACION COMERCIAL"
+            },
+            "55":{
+                "id":"55",
+                "nombre":"GUIA DE TURISMO"
+            },
+            "56":{
+                "id":"56",
+                "nombre":"TURISMO ALTERNATIVO"
+            },
+            "57":{
+                "id":"57",
+                "nombre":"INGLES  IV"
+            },
+            "58":{
+                "id":"58",
+                "nombre":"ORGANIZACION DE REUNIONES Y EVENTOS"
+            },
+            "59":{
+                "id":"59",
+                "nombre":"TALLER DE TESIS"
+            }
+        }
+    },
+    "3":{
+        "id":"2",
+        "nombre": "ARQUITECTURA",
+        "asignaturas": {
+            "1":{
+                "id":"1",
+                "nombre":"MATEMATICA BASICA"
+            },
+            "2":{
+                "id":"2",
+                "nombre":"COMUNICACION I"
             },
             "3":{
+                "id":"3",
+                "nombre":"METODOLOGIA DEL TRABAJO UNIVERSITARIO"
+            },
+            "4":{
                 "id":"4",
-                "nombre": "METODOLOGIA DEL TRABAJO UNIVERSITARIO"
+                "nombre":"EDIFICACION  I"
+            },
+            "5":{
+                "id":"5",
+                "nombre":"DISEÑO ARQUITECTONICO I"
+            },
+            "6":{
+                "id":"6",
+                "nombre":"DIBUJO ARQUITECTONICO  I"
+            },
+            "7":{
+                "id":"7",
+                "nombre":"ANALISIS MATEMATICO"
+            },
+            "8":{
+                "id":"8",
+                "nombre":"EDIFICACION  II"
+            },
+            "9":{
+                "id":"9",
+                "nombre":"COMUNICACION II"
+            },
+            "10":{
+                "id":"10",
+                "nombre":"METODOLOGIA DE LA INVESTIGACION CIENTIFICA"
+            },
+            "11":{
+                "id":"11",
+                "nombre":"DIBUJO ARQUITECTONICO  II"
+            },
+            "12":{
+                "id":"12",
+                "nombre":"DISEÑO ARQUITECTONICO II "
+            },
+            "13":{
+                "id":"13",
+                "nombre":"EDIFICACION  III"
+            },
+            "14":{
+                "id":"14",
+                "nombre":"FISICA GENERAL"
+            },
+            "15":{
+                "id":"15",
+                "nombre":"DIBUJO ARQUITECTONICO III"
+            },
+            "16":{
+                "id":"16",
+                "nombre":"DISEÑO ARQUITECTONICO III"
+            },
+            "17":{
+                "id":"17",
+                "nombre":"GEOMETRIA DESCRIPTIVA"
+            },
+            "18":{
+                "id":"18",
+                "nombre":"HISTORIA DE LA CIVILIZACION"
+            },
+            "19":{
+                "id":"19",
+                "nombre":"PSICOLOGIA DE LA PERCEPCION"
+            },
+            "20":{
+                "id":"20",
+                "nombre":"ESTADISTICA DESCRIPTIVA"
+            },
+            "21":{
+                "id":"21",
+                "nombre":"DIBUJO ARQUITECTONICO IV"
+            },
+            "22":{
+                "id":"22",
+                "nombre":"DISEÑO ARQUITECTONICO IV"
+            },
+            "23":{
+                "id":"23",
+                "nombre":"ESTRUCTURAS I"
+            },
+            "24":{
+                "id":"24",
+                "nombre":"HISTORIA Y TEORIA DE LA ARQUITECTURA "
+            },
+            "25":{
+                "id":"25",
+                "nombre":"DIBUJO ARQUITECTONICO  CAD  I"
+            },
+            "26":{
+                "id":"26",
+                "nombre":"DISEÑO ARQUITECTONICO V"
+            },
+            "27":{
+                "id":"27",
+                "nombre":"ESTRUCTURAS II"
+            },
+            "28":{
+                "id":"28",
+                "nombre":"SEMINARIO DE HISTORIA Y TEORIA DE LA ARQUITECTURA"
+            },
+            "29":{
+                "id":"29",
+                "nombre":"TOPOGRAFIA "
+            },
+            "30":{
+                "id":"30",
+                "nombre":"FORMULACION Y EVALUACION DE PROYECTOS"
+            },
+            "31":{
+                "id":"31",
+                "nombre":"DIBUJO ARQUITECTONICO  CAD   II"
+            },
+            "32":{
+                "id":"32",
+                "nombre":"DISEÑO ARQUITECTONICO VI"
+            },
+            "33":{
+                "id":"33",
+                "nombre":"HISTORIA DE LA ARQUITECTURA PERUANA"
+            },
+            "34":{
+                "id":"34",
+                "nombre":"ESTRUCTURAS III"
+            },
+            "35":{
+                "id":"35",
+                "nombre":"RECUPERACION DE AMBIENTES PATRIMOIALES"
+            },
+            "36":{
+                "id":"36",
+                "nombre":"DIBUJO ARQUITECTONICO SKETCHUP "
+            },
+            "37":{
+                "id":"37",
+                "nombre":"DISEÑO ARQUITECTONICO VII"
+            },
+            "38":{
+                "id":"38",
+                "nombre":"INSTALACIONES ELECTRICAS"
+            },
+            "39":{
+                "id":"39",
+                "nombre":"ESTRUCTURAS EN MADERA Y ACERO"
+            },
+            "40":{
+                "id":"40",
+                "nombre":"INGLES  I"
+            },
+            "41":{
+                "id":"41",
+                "nombre":"INGLES  II"
+            },
+            "42":{
+                "id":"42",
+                "nombre":"DISEÑO ARQUITECTONICO VIII"
+            },
+            "43":{
+                "id":"43",
+                "nombre":"DISEÑO URBANO I"
+            },
+            "44":{
+                "id":"44",
+                "nombre":"ESTRUCTURAS EN MATERIALES NO TRADICIONALES"
+            },
+            "45":{
+                "id":"45",
+                "nombre":"DIBUJO ARQUITECTONICO REVIT"
+            },
+            "46":{
+                "id":"46",
+                "nombre":"INSTALACIONES  SANITARIAS"
+            },
+            "47":{
+                "id":"47",
+                "nombre":"DEONTOLOGIA PROFESIONAL"
+            },
+            "48":{
+                "id":"48",
+                "nombre":"SEMINARIO DE TESIS"
+            },
+            "49":{
+                "id":"49",
+                "nombre":"DISEÑO URBANO II"
+            },
+            "50":{
+                "id":"50",
+                "nombre":"DISEÑO ARQUITECTONICO IX"
+            },
+            "51":{
+                "id":"51",
+                "nombre":"METRADOS COSTOS Y PRESUPUESTO"
+            },
+            "52":{
+                "id":"52",
+                "nombre":"INGLES  III"
+            },
+            "53":{
+                "id":"53",
+                "nombre":"DISEÑO ARQUITECTONICO X"
+            },
+            "54":{
+                "id":"54",
+                "nombre":"PRESENTACION ARQUITECTONICA"
+            },
+            "55":{
+                "id":"55",
+                "nombre":"SEMINARIO DE PLANEAMIENTO Y URBANISMO"
+            },
+            "56":{
+                "id":"56",
+                "nombre":"TALLER DE TESIS"
+            },
+            "57":{
+                "id":"57",
+                "nombre":"DIBUJO ARQUITECTOICO   3D MAX"
+            },
+            "58":{
+                "id":"58",
+                "nombre":"INGLES  IV"
+            }
+        }
+    },
+    "4":{
+        "id":"4",
+        "nombre": "CIENCIAS DE LA COMUNICACIÓN",
+        "asignaturas": {
+            "1":{
+                "id":"1",
+                "nombre":"MATEMATICA BASICA"
+            },
+            "2":{
+                "id":"2",
+                "nombre":"COMUNICACION I"
+            },
+            "3":{
+                "id":"3",
+                "nombre":"FILOSOFIA"
+            },
+            "4":{
+                "id":"4",
+                "nombre":"METODOLOGIA DEL TRABAJO UNIVERSITARIO"
+            },
+            "5":{
+                "id":"5",
+                "nombre":"OFIMATICA EMPRESARIAL I"
+            },
+            "6":{
+                "id":"6",
+                "nombre":"INTRODUCCION A LA CIENCIAS DE LA COMUNICACION"
+            },
+            "7":{
+                "id":"7",
+                "nombre":"OFIMATICA EMPRESARIAL II"
+            },
+            "8":{
+                "id":"8",
+                "nombre":"REALIDAD PERUANA Y GLOBALIZACION"
+            },
+            "9":{
+                "id":"9",
+                "nombre":"ADMINISTRACION EMPRESARIAL"
+            },
+            "10":{
+                "id":"10",
+                "nombre":"COMUNICACION II"
+            },
+            "11":{
+                "id":"11",
+                "nombre":"METODOLOGIA DE LA INVESTIGACION CIENTIFICA"
+            },
+            "12":{
+                "id":"12",
+                "nombre":"INTRODUCCION AL PERIODISMO"
+            },
+            "13":{
+                "id":"13",
+                "nombre":"MARKETING ESTRATEGICO"
+            },
+            "14":{
+                "id":"14",
+                "nombre":"ECONOMIA EMPRESARIAL"
+            },
+            "15":{
+                "id":"15",
+                "nombre":"COMPORTAMIENTO ORGANIZACIONAL"
+            },
+            "16":{
+                "id":"16",
+                "nombre":"TALLER DE EXPRESION ORAL"
+            },
+            "17":{
+                "id":"17",
+                "nombre":"TEORIA DE LA COMUNICACION I"
+            },
+            "18":{
+                "id":"18",
+                "nombre":"HISTORIA DE LAS CIVILIZACIONES"
+            },
+            "19":{
+                "id":"19",
+                "nombre":"ESTADISTICA DESCRIPTIVA"
+            },
+            "20":{
+                "id":"20",
+                "nombre":"MARKETING INTERNACIONAL"
+            },
+            "21":{
+                "id":"21",
+                "nombre":"DESARROLLO DE LOS MEDIOS ELECTRONICOS"
+            },
+            "22":{
+                "id":"22",
+                "nombre":"TEORIA DE LA COMUNICACION II"
+            },
+            "23":{
+                "id":"23",
+                "nombre":"LITERATURA LATINOMERICANA "
+            },
+            "24":{
+                "id":"24",
+                "nombre":"TALLER DE REDACCION"
+            },
+            "25":{
+                "id":"25",
+                "nombre":"LENGUAJE VISUAL"
+            },
+            "26":{
+                "id":"26",
+                "nombre":"FUNDAMENTO DE PUBLICIDAD Y RELACIONES PUBLICAS"
+            },
+            "27":{
+                "id":"27",
+                "nombre":"LENGUAJE AUDIOVISUAL"
+            },
+            "28":{
+                "id":"28",
+                "nombre":"TALLER DE LOCUCION RADIAL Y TELEVISIVA"
+            },
+            "29":{
+                "id":"29",
+                "nombre":"FOTOGRAFIA PERIODISTICA Y PUBLICITARIA"
+            },
+            "30":{
+                "id":"30",
+                "nombre":"REDACCION PERIODISTICA"
+            },
+            "31":{
+                "id":"31",
+                "nombre":"TALLER DE PERIODISMO INTERPRETATIVO"
+            },
+            "32":{
+                "id":"32",
+                "nombre":"PSICOLOGIA Y COMUNICACION"
+            },
+            "33":{
+                "id":"33",
+                "nombre":"COMUNICACION, PUBLICIDAD E IMAGEN CORPORATIVA"
+            },
+            "34":{
+                "id":"34",
+                "nombre":"DISEÑO GRAFICO"
+            },
+            "35":{
+                "id":"35",
+                "nombre":"TECNICA DE GUION"
+            },
+            "36":{
+                "id":"36",
+                "nombre":"SEMIOTICA PUBLICITARIA PARA LA COMUNICACION"
+            },
+            "37":{
+                "id":"37",
+                "nombre":"INGLES  I"
+            },
+            "38":{
+                "id":"38",
+                "nombre":"TALLER DE PRODUCCION  Y REALIZACION AUDIOVISUAL"
+            },
+            "39":{
+                "id":"39",
+                "nombre":"PERIODISMO DE INVESTIGACION"
+            },
+            "40":{
+                "id":"40",
+                "nombre":"COMUNICACION ORGANIZACIONAL Y MANEJO DE CRISIS"
+            },
+            "41":{
+                "id":"41",
+                "nombre":"LENGUAJE DE LOS MEDIOS AUDIOVISUALES"
+            },
+            "42":{
+                "id":"42",
+                "nombre":"TALLER DE PRODUCCION Y REALIZACION RADIAL"
+            },
+            "43":{
+                "id":"43",
+                "nombre":"INGLES  II"
+            },
+            "44":{
+                "id":"44",
+                "nombre":"PRODUCCION GRAFICA"
+            },
+            "45":{
+                "id":"45",
+                "nombre":"DESARROLLO DE PROYECTOS RADIALES"
+            },
+            "46":{
+                "id":"46",
+                "nombre":"DESARROLLO DE PROYECTOS TELEVISIVOS"
+            },
+            "47":{
+                "id":"47",
+                "nombre":"ESTRATEGIA DE COMUNICACION"
+            },
+            "48":{
+                "id":"48",
+                "nombre":"FUENTES Y ANALISIS DE DOCUMENTOS"
+            },
+            "49":{
+                "id":"49",
+                "nombre":"INGLES  III"
+            },
+            "50":{
+                "id":"50",
+                "nombre":"DEONTOLOGIA PROFESIONAL"
+            },
+            "51":{
+                "id":"51",
+                "nombre":"SEMINARIO DE TESIS "
+            },
+            "52":{
+                "id":"52",
+                "nombre":"CAMPAÑAS PUBLICITARIAS Y DE MARKETING"
+            },
+            "53":{
+                "id":"53",
+                "nombre":"GESTION DE PROYECTOS DE RELACIONES PUBLICAS"
+            },
+            "54":{
+                "id":"54",
+                "nombre":"PLANEACION Y ORGANIZACION DE EMPRESAS EDITORIALES"
+            },
+            "55":{
+                "id":"55",
+                "nombre":"INGLES  IV"
+            },
+            "56":{
+                "id":"56",
+                "nombre":"TALLER DE TESIS"
+            },
+            "57":{
+                "id":"57",
+                "nombre":"TECNICAS CINEMATOGRAFICAS"
+            },
+            "58":{
+                "id":"58",
+                "nombre":"TALLER DE PERIODISMO PARA MULTIPLATAFORMAS"
+            },
+            "59":{
+                "id":"58",
+                "nombre":"CONSULTORIA PARA INSTITUCIONES Y CORPORACIONES"
+            }
+        }
+    },
+    "5":{
+        "id":"5",
+        "nombre": "CONTABILIDAD",
+        "asignaturas": {
+            "1":{
+                "id":"1",
+                "nombre":"MATEMATICA BASICA"
+            },
+            "2":{
+                "id":"2",
+                "nombre":"COMUNICACION I"
+            },
+            "3":{
+                "id":"3",
+                "nombre":"FILOSOFIA"
+            },
+            "4":{
+                "id":"4",
+                "nombre":"METODOLOGIA DEL TRABAJO UNIVERSITARIO"
+            },
+            "5":{
+                "id":"5",
+                "nombre":"OFIMATICA EMPRESARIAL I"
+            },
+            "6":{
+                "id":"6",
+                "nombre":"INTRODUCCION A LA CONTABILIDAD Y FINANZAS"
+            },
+            "7":{
+                "id":"7",
+                "nombre":"ANALISIS MATEMATICO I"
+            },
+            "8":{
+                "id":"8",
+                "nombre":"DOCTRINA CONTABLE"
+            },
+            "9":{
+                "id":"9",
+                "nombre":"METODOLOGIA DE LA INVESTIGACION CIENTIFICA"
+            },
+            "10":{
+                "id":"10",
+                "nombre":"ADMINISTRACION EMPRESARIAL"
+            },
+            "11":{
+                "id":"11",
+                "nombre":"OFIMATICA EMPRESARIAL II"
+            },
+            "12":{
+                "id":"12",
+                "nombre":"COMUNICACION II"
+            },
+            "13":{
+                "id":"13",
+                "nombre":"ANALISIS MATEMATICO II"
+            },
+            "14":{
+                "id":"14",
+                "nombre":"DISEÑO ORGANIZACIONAL DE PROCESOS"
+            },
+            "15":{
+                "id":"15",
+                "nombre":"CONTABILIDAD BASICA I"
+            },
+            "16":{
+                "id":"16",
+                "nombre":"CONTABILIDAD Y LEGISLACION  TRIBUTARIA I"
+            },
+            "17":{
+                "id":"17",
+                "nombre":"MARKETING ESTRATEGICO"
+            },
+            "18":{
+                "id":"18",
+                "nombre":"ECONOMIA EMPRESARIAL"
+            },
+            "19":{
+                "id":"19",
+                "nombre":"MATEMATICA FINANCIERA"
+            },
+            "20":{
+                "id":"20",
+                "nombre":"ESTADISTICA DESCRIPTIVA"
+            },
+            "21":{
+                "id":"21",
+                "nombre":"CONTABILIDAD BASICA II"
+            },
+            "22":{
+                "id":"22",
+                "nombre":"CONTABILIDAD Y LEGISLACION  TRIBUTARIA II"
+            },
+            "23":{
+                "id":"23",
+                "nombre":"MICROECONOMIA"
+            },
+            "24":{
+                "id":"24",
+                "nombre":"SOFTWARE CONTABLE"
+            },
+            "25":{
+                "id":"25",
+                "nombre":"COSTOS I"
+            },
+            "26":{
+                "id":"26",
+                "nombre":"CODIGO TRIBUTARIO "
+            },
+            "27":{
+                "id":"27",
+                "nombre":"DERECHO SOCIETARIO Y COMERCIAL"
+            },
+            "28":{
+                "id":"28",
+                "nombre":"GESTION DE NEGOCIOS INTERNACIONALES"
+            },
+            "29":{
+                "id":"29",
+                "nombre":"MACROECONOMIA "
+            },
+            "30":{
+                "id":"30",
+                "nombre":"FINANZAS E INSTITUCIONES FINANCIERAS"
+            },
+            "31":{
+                "id":"31",
+                "nombre":"FISCALIZACION TRIBUTARIA"
+            },
+            "32":{
+                "id":"32",
+                "nombre":"COSTOS II"
+            },
+            "33":{
+                "id":"33",
+                "nombre":"CONTABILIDAD INTERMEDIA"
+            },
+            "34":{
+                "id":"34",
+                "nombre":"DERECHO LABORAL I"
+            },
+            "35":{
+                "id":"35",
+                "nombre":"GESTION DEL FINANCIAMIENTO  INTERNACIONAL"
+            },
+            "36":{
+                "id":"36",
+                "nombre":"FORMULACION  Y EVALUACION DE PROYECTOS"
+            },
+            "37":{
+                "id":"37",
+                "nombre":"INGLES  I"
+            },
+            "38":{
+                "id":"38",
+                "nombre":"DERECHO LABORAL II"
+            },
+            "39":{
+                "id":"39",
+                "nombre":"CONTABILIDAD SUPERIOR"
+            },
+            "40":{
+                "id":"40",
+                "nombre":"CONTABILIDAD GUBERNAMENTAL"
+            },
+            "41":{
+                "id":"41",
+                "nombre":"CONTABILIDAD DE INSTITUCIONES FINANCIERAS"
+            },
+            "42":{
+                "id":"42",
+                "nombre":"GESTION DE PROYECTOS"
+            },
+            "43":{
+                "id":"43",
+                "nombre":"INGLES  II"
+            },
+            "44":{
+                "id":"44",
+                "nombre":"FORMULACION Y ANALISIS DE EE.FF"
+            },
+            "45":{
+                "id":"45",
+                "nombre":"CASUISTICA NIC Y NIIF"
+            },
+            "46":{
+                "id":"46",
+                "nombre":"CONTABILIDAD DE LAS MICRO Y PEQUEÑAS EMPRESAS"
+            },
+            "47":{
+                "id":"47",
+                "nombre":"CONTABILIDAD APLICADA"
+            },
+            "48":{
+                "id":"48",
+                "nombre":"FINANZAS CORPORATIVAS INTERNACIONALES"
+            },
+            "49":{
+                "id":"49",
+                "nombre":"INGLES  III"
+            },
+            "50":{
+                "id":"50",
+                "nombre":"DEONTOLOGIA PROFESIONAL"
+            },
+            "51":{
+                "id":"51",
+                "nombre":"SEMINARIO DE TESIS "
+            },
+            "52":{
+                "id":"52",
+                "nombre":"AUDITORIA I (FINANCIERA)"
+            },
+            "53":{
+                "id":"53",
+                "nombre":"MERCADO FINANCIERO Y DE VALORES"
+            },
+            "54":{
+                "id":"54",
+                "nombre":"BANCA Y FINANZAS"
+            },
+            "55":{
+                "id":"55",
+                "nombre":"INGLES  IV"
+            },
+            "56":{
+                "id":"56",
+                "nombre":"DERECHO TRIBUTARIO INTERNACIONAL"
+            },
+            "57":{
+                "id":"57",
+                "nombre":"TALLER DE TESIS"
+            },
+            "58":{
+                "id":"58",
+                "nombre":"AUDITORIA II (TRIBUTARIA)"
+            },
+            "59":{
+                "id":"58",
+                "nombre":"GABINETE CONTABLE "
+            },
+            "60":{
+                "id":"58",
+                "nombre":"ESTRATEGIA DE NEGOCIACION"
+            }
+        }
+    },
+    "6":{
+        "id":"6",
+        "nombre": "DERECHO",
+        "asignaturas": {
+            "1":{
+                "id":"1",
+                "nombre":"MATEMATICA BASICA"
+            },
+            "2":{
+                "id":"2",
+                "nombre":"COMUNICACION I"
+            },
+            "3":{
+                "id":"3",
+                "nombre":"FILOSOFIA"
+            },
+            "4":{
+                "id":"4",
+                "nombre":"METODOLOGIA DEL TRABAJO UNIVERSITARIO"
+            },
+            "5":{
+                "id":"5",
+                "nombre":"OFIMATICA EMPRESARIAL I"
+            },
+            "6":{
+                "id":"6",
+                "nombre":"INTRODUCCION AL DERECHO"
+            },
+            "7":{
+                "id":"7",
+                "nombre":"COMUNICACION II"
+            },
+            "8":{
+                "id":"8",
+                "nombre":"REALIDAD PERUANA Y GLOBALIZACION"
+            },
+            "9":{
+                "id":"9",
+                "nombre":"OFIMATICA EMPRESARIAL II"
+            },
+            "10":{
+                "id":"10",
+                "nombre":"METODOLOGIA DE LA INVESTIGACION CIENTIFICA"
+            },
+            "11":{
+                "id":"11",
+                "nombre":"HISTORIA GENERAL DEL DERECHO"
+            },
+            "12":{
+                "id":"12",
+                "nombre":"DERECHO ROMANO"
+            },
+            "13":{
+                "id":"13",
+                "nombre":"DERECHO PENAL I(PARTE GENERAL)"
+            },
+            "14":{
+                "id":"14",
+                "nombre":"TEORIA GENERAL DEL DERECHO PROCESAL PERUANO"
+            },
+            "15":{
+                "id":"15",
+                "nombre":"DERECHO CIVIL I(PERSONAS)"
+            },
+            "16":{
+                "id":"16",
+                "nombre":"SOCIOLOGIA GENERAL Y JURIDICA"
+            },
+            "17":{
+                "id":"17",
+                "nombre":"DERECHO CONSTITUCIONAL GENERAL"
+            },
+            "18":{
+                "id":"18",
+                "nombre":"ECONOMIA EMPRESARIAL"
+            },
+            "19":{
+                "id":"19",
+                "nombre":"DERECHO PENAL II (PARTE ESPECIAL)"
+            },
+            "20":{
+                "id":"20",
+                "nombre":"DERECHO PROCESAL PENAL  I"
+            },
+            "21":{
+                "id":"21",
+                "nombre":"DERECHO CIVIL II (ACTO JURIDICO)"
+            },
+            "22":{
+                "id":"22",
+                "nombre":"DERECHO CONSTITUCIONAL  DEL PERU"
+            },
+            "23":{
+                "id":"23",
+                "nombre":"DERECHO PROCESAL CIVIL I"
+            },
+            "24":{
+                "id":"24",
+                "nombre":"RAZONAMIENTO JURIDICO"
+            },
+            "25":{
+                "id":"25",
+                "nombre":"DERECHO PENAL III"
+            },
+            "26":{
+                "id":"26",
+                "nombre":"DERECHO PROCESAL PENAL II"
+            },
+            "27":{
+                "id":"27",
+                "nombre":"DERECHO CIVIL III (FAMILIA)"
+            },
+            "28":{
+                "id":"28",
+                "nombre":"DERECHO PROCESAL CIVIL II"
+            },
+            "29":{
+                "id":"29",
+                "nombre":"DERECHO ADMINISTRATIVO  I"
+            },
+            "30":{
+                "id":"30",
+                "nombre":"DERECHO PROCESAL CONSTITUCIONAL"
+            },
+            "31":{
+                "id":"31",
+                "nombre":"DERECHO PENAL IV(PARTE ESPECIAL)"
+            },
+            "32":{
+                "id":"32",
+                "nombre":"DERECHO CIVIL IV (SUCESIONES)"
+            },
+            "33":{
+                "id":"33",
+                "nombre":"DERECHO LABORAL I"
+            },
+            "34":{
+                "id":"34",
+                "nombre":"DERECHO COMERCIAL"
+            },
+            "35":{
+                "id":"35",
+                "nombre":"DERECHO DEL NIÑO Y DEL ADOSLESCENTE"
+            },
+            "36":{
+                "id":"36",
+                "nombre":"DERECHO ADMINISTRATIVO II"
+            },
+            "37":{
+                "id":"37",
+                "nombre":"INGLES  I"
+            },
+            "38":{
+                "id":"38",
+                "nombre":"DERECHO  DEL COMERCIO EXTERIOR Y ADUANERO"
+            },
+            "39":{
+                "id":"39",
+                "nombre":"DERECHO CIVIL V (REALES)"
+            },
+            "40":{
+                "id":"40",
+                "nombre":"DERECHO LABORAL II"
+            },
+            "41":{
+                "id":"41",
+                "nombre":"DERECHO TRIBUTARIO  I"
+            },
+            "42":{
+                "id":"42",
+                "nombre":"DERECHO MONETARIO Y BANCARIO"
+            },
+            "43":{
+                "id":"43",
+                "nombre":"INGLES  II"
+            },
+            "44":{
+                "id":"44",
+                "nombre":"DERECHO DE LA PROPIEDAD INTELECTUAL"
+            },
+            "45":{
+                "id":"45",
+                "nombre":"DERECHO CIVIL VI (OBLIGACIONES)"
+            },
+            "46":{
+                "id":"46",
+                "nombre":"DERECHO PROCESAL LABORAL"
+            },
+            "47":{
+                "id":"47",
+                "nombre":"DERECHO REGISTRAL Y NOTARIAL"
+            },
+            "48":{
+                "id":"48",
+                "nombre":"DERECHO TRIBUTARIO  II"
+            },
+            "49":{
+                "id":"49",
+                "nombre":"INGLES  III"
+            },
+            "50":{
+                "id":"50",
+                "nombre":"SEMINARIO DE TESIS"
+            },
+            "51":{
+                "id":"51",
+                "nombre":"DERECHO DEL CONSUMIDOR Y COMPETENCIA"
+            },
+            "52":{
+                "id":"52",
+                "nombre":"DERECHO CIVIL VII(CONTRATOS I)"
+            },
+            "53":{
+                "id":"53",
+                "nombre":"DEONTOLOGIA PROFESIONAL"
+            },
+            "54":{
+                "id":"54",
+                "nombre":"DERECHO CONCURSAL"
+            },
+            "55":{
+                "id":"55",
+                "nombre":"DERECHO INTERNACIONAL "
+            },
+            "56":{
+                "id":"56",
+                "nombre":"MEDICINA LEGAL Y PRACTICA FORENSE"
+            },
+            "57":{
+                "id":"57",
+                "nombre":"DERECHO CIVIL VIII (CONTRATOS II) PARTE ESPECIAL)"
+            },
+            "58":{
+                "id":"58",
+                "nombre":"INGLES  IV"
+            },
+            "59":{
+                "id":"58",
+                "nombre":"DERECHO DEL MEDIO  AMBIENTE"
+            },
+            "60":{
+                "id":"58",
+                "nombre":"REGIMEN JURIDICO DE LA INVERSION EXTRANJERA"
+            },
+            "61":{
+                "id":"61",
+                "nombre":"CRIMINALISTICA Y CRIMINOLOGIA"
+            },
+            "62":{
+                "id":"62",
+                "nombre":"SEMINARIO DE DERECHO CIVIL Y PROCESAL CIVIL"
+            },
+            "63":{
+                "id":"63",
+                "nombre":"DERECHO DE RESPONSABILIDAD EXTRACONTRACTUAL(DERECHO CIVIL IX)"
+            },
+            "64":{
+                "id":"64",
+                "nombre":"SEMINARIO DERECHO PENAL Y  PROCESAL PENAL"
+            },
+            "65":{
+                "id":"65",
+                "nombre":"CONTRATOS DEL ESTADO"
+            },
+            "66":{
+                "id":"66",
+                "nombre":"DERECHOS HUMANOS E INTERNACIONAL HUMANITARIOS"
+            },
+            "67":{
+                "id":"67",
+                "nombre":"DERECHO MINERO"
+            },
+            "68":{
+                "id":"68",
+                "nombre":"DERECHO MUNICIPAL Y REGIONAL"
+            },
+            "69":{
+                "id":"69",
+                "nombre":"DERECHO TURISTICO"
+            },
+            "70":{
+                "id":"70",
+                "nombre":"DERECHO CORPORATIVO FISCAL"
+            },
+            "71":{
+                "id":"71",
+                "nombre":"TALLER DE TESIS"
+            },
+            "72":{
+                "id":"72",
+                "nombre":"MEDIOS ALTERNATIVOS DE LA  RESOLUCION DE CONFLICTOS"
+            }
+        }
+    },
+    "7":{
+        "id":"7",
+        "nombre": "ECONOMIA",
+        "asignaturas": {
+            "1":{
+                "id":"1",
+                "nombre":"MATEMATICA BASICA"
+            },
+            "2":{
+                "id":"2",
+                "nombre":"COMUNICACION I"
+            },
+            "3":{
+                "id":"3",
+                "nombre":"FILOSOFIA"
+            },
+            "4":{
+                "id":"4",
+                "nombre":"METODOLOGIA DEL TRABAJO UNIVERSITARIO"
+            },
+            "5":{
+                "id":"5",
+                "nombre":"OFIMATICA EMPRESARIAL I"
+            },
+            "6":{
+                "id":"6",
+                "nombre":"INTRODUCCION A LA ECONOMIA Y NEGOCIOS GLOBALES"
+            },
+            "7":{
+                "id":"7",
+                "nombre":"ANALISIS MATEMATICO I"
+            },
+            "8":{
+                "id":"8",
+                "nombre":"COMUNICACION II"
+            },
+            "9":{
+                "id":"9",
+                "nombre":"REALIDAD PERUANA Y GLOBALIZACION"
+            },
+            "10":{
+                "id":"10",
+                "nombre":"METODOLOGIA DE LA INVESTIGACION"
+            },
+            "11":{
+                "id":"11",
+                "nombre":"OFIMATICA EMPRESARIAL II"
+            },
+            "12":{
+                "id":"12",
+                "nombre":"ESTADISTICA GENERAL"
+            },
+            "13":{
+                "id":"13",
+                "nombre":"ADMINISTRACION EMPRESARIAL"
+            }
+        }
+    },
+    "8":{
+        "id":"8",
+        "nombre": "ENFERMERIA",
+        "asignaturas": {
+            "1":{
+                "id":"1",
+                "nombre":"MATEMATICA BASICA"
+            },
+            "2":{
+                "id":"2",
+                "nombre":"COMUNICACION I"
+            },
+            "3":{
+                "id":"3",
+                "nombre":"BIOLOGIA"
+            },
+            "4":{
+                "id":"4",
+                "nombre":"METODOLOGIA DEL TRABAJO UNIVERSITARIO"
+            },
+            "5":{
+                "id":"5",
+                "nombre":"QUIMICA GENERAL"
+            },
+            "6":{
+                "id":"6",
+                "nombre":"INTRODUCCION A LA ENFERMERIA"
+            },
+            "7":{
+                "id":"7",
+                "nombre":"ANATOMIA HUMANA"
+            },
+            "8":{
+                "id":"8",
+                "nombre":"PSICOLOGIA EVOLUTIVA"
+            },
+            "9":{
+                "id":"9",
+                "nombre":"METODOLOGIA DE LA INVESTIGACION CIENTIFICA"
+            },
+            "10":{
+                "id":"10",
+                "nombre":"FUNDAMENTOS DE LA ENFERMERIA I"
+            },
+            "11":{
+                "id":"11",
+                "nombre":"FISIOLOGIA HUMANA"
+            }
+        }
+    },
+    "9":{
+        "id":"9",
+        "nombre": "GASTRONOMIA",
+        "asignaturas": {
+            "1":{
+                "id":"1",
+                "nombre":"MATEMATICA BASICA"
+            },
+            "2":{
+                "id":"2",
+                "nombre":"COMUNICACION I"
+            },
+            "3":{
+                "id":"3",
+                "nombre":"OFIMATICA EMPRESARIAL I"
+            },
+            "4":{
+                "id":"4",
+                "nombre":"METODOLOGIA DEL TRABAJO UNIVERSITARIO"
+            },
+            "5":{
+                "id":"5",
+                "nombre":"FILOSOFIA"
+            },
+            "6":{
+                "id":"6",
+                "nombre":"INTRODUCCION A LA GASTRONOMIA"
+            },
+            "7":{
+                "id":"7",
+                "nombre":"COCINA PERUANA "
+            },
+            "8":{
+                "id":"8",
+                "nombre":"METODOLOGIA DE LA INVESTIGACION CIENTIFICA"
+            },
+            "9":{
+                "id":"9",
+                "nombre":"ADMINISTRACION EMPRESARIAL "
+            },
+            "10":{
+                "id":"10",
+                "nombre":"OFIMATICA EMPRESARIAL II"
+            },
+            "11":{
+                "id":"11",
+                "nombre":"COMUNICACION II"
+            },
+            "12":{
+                "id":"12",
+                "nombre":"COCINA BASICA"
+            },
+            "13":{
+                "id":"13",
+                "nombre":"COCINA  REGIONAL PERUANA"
+            },
+            "14":{
+                "id":"14",
+                "nombre":"CONTABILIDAD GENERAL"
+            },
+            "15":{
+                "id":"15",
+                "nombre":"MARKETING ESTRATEGICO"
+            },
+            "16":{
+                "id":"16",
+                "nombre":"ECONOMIA EMPRESARIAL"
+            },
+            "17":{
+                "id":"17",
+                "nombre":"PANADERIA BASICA"
+            },
+            "18":{
+                "id":"18",
+                "nombre":"MANIPULACION DE ALIMENTOS  "
+            },
+            "19":{
+                "id":"19",
+                "nombre":"MATEMATICA FINANCIERA"
+            },
+            "20":{
+                "id":"20",
+                "nombre":"ESTADISTICA DESCRIPTIVA"
+            },
+            "21":{
+                "id":"21",
+                "nombre":"COCINA ORIENTAL PERUANA"
+            },
+            "22":{
+                "id":"22",
+                "nombre":"PASTELERIA BASICA"
+            },
+            "23":{
+                "id":"23",
+                "nombre":"MICROECONOMIA"
+            },
+            "24":{
+                "id":"24",
+                "nombre":"COCINA VEGETARIANA"
+            },
+            "25":{
+                "id":"25",
+                "nombre":"FINANZAS E INSTITUCIONES FINANCIERAS"
+            },
+            "26":{
+                "id":"26",
+                "nombre":"GARNISH AND COLD FOOD"
+            },
+            "27":{
+                "id":"27",
+                "nombre":"POSTRES PERUANOS"
+            },
+            "28":{
+                "id":"28",
+                "nombre":"PESCADOS Y MARISCOS"
+            },
+            "29":{
+                "id":"29",
+                "nombre":"SEGURIDAD E HIGIENE"
+            },
+            "30":{
+                "id":"30",
+                "nombre":"NUTRICION"
+            },
+            "31":{
+                "id":"31",
+                "nombre":"DERECHO LABORAL"
+            },
+            "32":{
+                "id":"32",
+                "nombre":"BUFFET NACIONAL E INTERNACIONAL"
+            },
+            "33":{
+                "id":"33",
+                "nombre":"REPOSTERIA FINA"
+            },
+            "34":{
+                "id":"34",
+                "nombre":"COCINA NOVOANDINA"
+            },
+            "35":{
+                "id":"35",
+                "nombre":"GESTION DEL TALENTO HUMANO "
+            },
+            "36":{
+                "id":"36",
+                "nombre":"FORMULACION Y EVALUACION DE PROYECTOS"
+            },
+            "37":{
+                "id":"37",
+                "nombre":"INGLES  I"
+            },
+            "38":{
+                "id":"38",
+                "nombre":"COCTELERIA "
+            },
+            "39":{
+                "id":"39",
+                "nombre":"COCINA LATINOAMRICANA"
+            },
+            "40":{
+                "id":"40",
+                "nombre":"GESTION DE SERVICIO AL CLIENTE"
+            },
+            "41":{
+                "id":"41",
+                "nombre":"GESTION DE PROYECTOS"
+            },
+            "42":{
+                "id":"42",
+                "nombre":"GESTION LOGISTICA "
+            },
+            "43":{
+                "id":"43",
+                "nombre":"COCINA ITALIANA"
+            },
+            "44":{
+                "id":"44",
+                "nombre":"ADMINISTRACION DE RESTAURANTES Y BARES"
+            },
+            "45":{
+                "id":"45",
+                "nombre":"COSTOS Y PRESUPUESTOS"
+            },
+            "46":{
+                "id":"46",
+                "nombre":"COCINA FRANCESA"
+            },
+            "47":{
+                "id":"47",
+                "nombre":"ENOLOGIA "
+            },
+            "48":{
+                "id":"48",
+                "nombre":"INGLES  II"
+            },
+            "49":{
+                "id":"49",
+                "nombre":"DEONTOLOGIA PROFESIONAL"
+            },
+            "50":{
+                "id":"50",
+                "nombre":"COCINA ASIATICA"
+            },
+            "51":{
+                "id":"51",
+                "nombre":"SEMINARIO DE TESIS"
+            },
+            "52":{
+                "id":"52",
+                "nombre":"COCINA ESPAÑOLA"
+            },
+            "53":{
+                "id":"53",
+                "nombre":"TECNOLOGIA DE COMEDORES Y EVENTOS"
+            },
+            "54":{
+                "id":"54",
+                "nombre":"INGLES  III"
+            },
+            "55":{
+                "id":"55",
+                "nombre":"COCINA DE AUTOR Y MOLECULAR"
+            },
+            "56":{
+                "id":"56",
+                "nombre":"COCINA DE LA INDIA Y DEL MEDIO ORIENTE"
+            },
+            "57":{
+                "id":"57",
+                "nombre":"GERENCIA ESTRATEGICA"
+            },
+            "58":{
+                "id":"58",
+                "nombre":"INGLES  IV"
+            },
+            "59":{
+                "id":"58",
+                "nombre":"TALLER DE TESIS"
+            }
+        }
+    },
+    "10":{
+        "id":"10",
+        "nombre": "INGENIERIA AGROINDUSTRIAL",
+        "asignaturas": {
+            "1":{
+                "id":"1",
+                "nombre":"FILOSOFIA"
+            },
+            "2":{
+                "id":"2",
+                "nombre":"METODOLOGIA DEL TRABAJO UNIVERSITARIO"
+            },
+            "3":{
+                "id":"3",
+                "nombre":"OFIMATICA EMPRESARIAL I"
+            },
+            "4":{
+                "id":"4",
+                "nombre":"INTRODUCCION A LA TECNOLOGIA DE LA INFORMACION Y TELECOMUNICACI"
+            },
+            "5":{
+                "id":"5",
+                "nombre":"ANALISIS MATEMATICO I"
+            },
+            "6":{
+                "id":"6",
+                "nombre":"COMUNICACION II"
+            },
+            "7":{
+                "id":"7",
+                "nombre":"REALIDAD PERUANA Y GLOBALIZACION"
+            },
+            "8":{
+                "id":"8",
+                "nombre":"FISICA I"
+            },
+            "9":{
+                "id":"9",
+                "nombre":"ALGOTITMIA Y ESTRUCTURA DE DATOS"
+            },
+            "10":{
+                "id":"10",
+                "nombre":"ADMINISTRACION EMPRESARIAL"
+            },
+            "11":{
+                "id":"11",
+                "nombre":"METODOLOGIA DE LA INVESTIGACION"
+            },
+            "12":{
+                "id":"12",
+                "nombre":"ADMINISTRACION EMPRESARIAL "
+            },
+            "13":{
+                "id":"13",
+                "nombre":"FISICA I"
+            },
+            "14":{
+                "id":"14",
+                "nombre":"DIBUJO EN INGENIERIA  II"
+            },
+            "15":{
+                "id":"15",
+                "nombre":"QUIMICA AGROINDUSTRIAL I"
+            },
+            "16":{
+                "id":"16",
+                "nombre":"FISIOLOGIA AGROINDUSTRIAL"
+            },
+            "17":{
+                "id":"17",
+                "nombre":"FISICA APLICADA A LA AGROINDUSTRIA"
+            },
+            "18":{
+                "id":"18",
+                "nombre":"ANALISIS MATEMATICO II"
+            },
+            "19":{
+                "id":"19",
+                "nombre":"CONTABILIDAD BASICA I"
+            },
+            "20":{
+                "id":"20",
+                "nombre":"ECONOMIA EMPRESARIAL"
+            },
+            "21":{
+                "id":"21",
+                "nombre":"MATERIAS PRIMAS PARA LA AGROINDUSTRIA"
+            },
+            "22":{
+                "id":"22",
+                "nombre":"FISICO-QUIMICA  AGROINDUSTRIAL"
+            },
+            "23":{
+                "id":"23",
+                "nombre":"MICROBIOLOGIA GENERAL"
+            },
+            "24":{
+                "id":"24",
+                "nombre":"AGROTECNIA"
+            },
+            "25":{
+                "id":"25",
+                "nombre":"BIOQUIMICA GENERAL"
+            },
+            "26":{
+                "id":"26",
+                "nombre":"ESTADISTICA DESCRIPTIVA"
+            },
+            "27":{
+                "id":"27",
+                "nombre":"POST COSECHA"
+            },
+            "28":{
+                "id":"28",
+                "nombre":"METODOS ESTADISTICOS"
+            },
+            "29":{
+                "id":"29",
+                "nombre":"ANALISIS ECONOMICO"
+            },
+            "30":{
+                "id":"30",
+                "nombre":"TERMODINAMICA"
+            },
+            "31":{
+                "id":"31",
+                "nombre":"ANALISIS DE PRODUCTOS AGROINDUSTRIALES"
+            },
+            "32":{
+                "id":"32",
+                "nombre":"MICROBIOLOGIA AGROINDUSTRIAL"
+            },
+            "33":{
+                "id":"33",
+                "nombre":"PRINCIPIOS DE INGENIERIA DE OPERACIONES AGROINDUSTRIALES"
+            },
+            "34":{
+                "id":"34",
+                "nombre":"OPTIMIZACION EN INGENIERIA"
+            },
+            "35":{
+                "id":"35",
+                "nombre":"INGENIERIA DE OPERACIONES AGROINDUSTRIALES I"
+            },
+            "36":{
+                "id":"36",
+                "nombre":"TECNOLOGIA AGROINDUSTRIAL I"
+            },
+            "37":{
+                "id":"37",
+                "nombre":"ALIMENTACION Y NUTRICION HUMANA"
+            },
+            "38":{
+                "id":"38",
+                "nombre":"INVESTIGACION DE TECNOLOGIAS DE ALIMENTOS "
+            },
+            "39":{
+                "id":"39",
+                "nombre":"INGENIERIA DE OPERACIONES AGROINDUSTRIALES II"
+            },
+            "40":{
+                "id":"40",
+                "nombre":"GESTION AMBIENTAL"
+            },
+            "41":{
+                "id":"41",
+                "nombre":"TECNOLOGIA AGROINDUSTRIAL II"
+            },
+            "42":{
+                "id":"42",
+                "nombre":"TECNOLOGIA E INDUSTRIAS CARNICAS"
+            },
+            "43":{
+                "id":"43",
+                "nombre":"TECNOLOGIA E INDUSTRIAS LACTEAS"
+            },
+            "44":{
+                "id":"44",
+                "nombre":"MERCADOTECNIA"
+            },
+            "45":{
+                "id":"45",
+                "nombre":"INGLES  I"
+            },
+            "46":{
+                "id":"46",
+                "nombre":"TECNOLOGIA AGROINDUSTRIAL III"
+            },
+            "47":{
+                "id":"47",
+                "nombre":"MAQUINARIA Y EQUIPOS PARA LA AGROINDUSTRIA"
+            },
+            "48":{
+                "id":"48",
+                "nombre":"INGENIERIA DE OPERACIONES AGROINDUSTRIALES III"
+            },
+            "49":{
+                "id":"49",
+                "nombre":"TECNOLOGIA E INDUSTRIAS DE CEREALES"
+            },
+            "50":{
+                "id":"50",
+                "nombre":"PROCESAMIENTO DE PRODUCTOS PESQUEROS"
+            },
+            "51":{
+                "id":"51",
+                "nombre":"ASEGURAMIENTO DE LA CALIDAD AGROINDUSTRIAL"
+            },
+            "52":{
+                "id":"52",
+                "nombre":"INGLES  II"
+            },
+            "53":{
+                "id":"53",
+                "nombre":"COMERCIALIZACION DE  PRODUCTOS AGROINDUSTRIALES"
+            },
+            "54":{
+                "id":"54",
+                "nombre":"DISEÑO DE PLANTAS AGROINDUSTRIALES"
+            },
+            "55":{
+                "id":"55",
+                "nombre":"SEMINARIO DE TESIS"
+            },
+            "56":{
+                "id":"56",
+                "nombre":"EVALUACION SENSORIAL"
+            },
+            "57":{
+                "id":"57",
+                "nombre":"DEONTOLOGIA PROFESIONAL"
+            },
+            "58":{
+                "id":"58",
+                "nombre":"INGLES  III"
+            },
+            "59":{
+                "id":"58",
+                "nombre":"GERENCIA ESTRATEGICA AGROINDUSTRIAL"
+            },
+            "60":{
+                "id":"60",
+                "nombre":"PROYECTOS AGROINDUSTRIALES"
+            },
+            "61":{
+                "id":"61",
+                "nombre":"INVESTIGACION Y DESARROLLO DE NUEVOS PRODUCTOS"
+            },
+            "62":{
+                "id":"62",
+                "nombre":"REFRIGERACION Y CONGELACION DE PRODUCTOS INDUSTRIALES"
+            },
+            "63":{
+                "id":"63",
+                "nombre":"TALLER  DE TESIS"
+            },
+            "64":{
+                "id":"64",
+                "nombre":"INGLES  IV"
+            }
+        }
+    },
+    "11":{
+        "id":"11",
+        "nombre": "INGENIERIA CIVIL",
+        "asignaturas": {
+            "1":{
+                "id":"1",
+                "nombre":"MATEMATICA BASICA"
+            },
+            "2":{
+                "id":"2",
+                "nombre":"COMUNICACION I"
+            },
+            "3":{
+                "id":"3",
+                "nombre":"METODOLOGIA DEL TRABAJO UNIVERSITARIO"
+            },
+            "4":{
+                "id":"4",
+                "nombre":"OFIMATICA "
+            },
+            "5":{
+                "id":"5",
+                "nombre":"INTRODUCCION A LA INGENIERIA CIVIL Y DESARROLLO INMOBILIARIO"
+            },
+            "6":{
+                "id":"6",
+                "nombre":"QUIMICA INDUSTRIAL"
+            },
+            "7":{
+                "id":"7",
+                "nombre":"ANALISIS MATEMATICO I"
+            },
+            "8":{
+                "id":"8",
+                "nombre":"METODOLOGIA DE LA INVESTIGACION CIENTIFICA"
+            },
+            "9":{
+                "id":"9",
+                "nombre":"COMUNICACION II"
+            },
+            "10":{
+                "id":"10",
+                "nombre":"FISICA I"
+            },
+            "11":{
+                "id":"11",
+                "nombre":"ADMINISTRACION EMPRESARIAL"
+            },
+            "12":{
+                "id":"12",
+                "nombre":"DIBUJO  DE INGENIERIA  "
+            },
+            "13":{
+                "id":"13",
+                "nombre":"ANALISIS MATEMATICO II"
+            },
+            "14":{
+                "id":"14",
+                "nombre":"ECONOMIA EMPRESARIAL"
+            },
+            "15":{
+                "id":"15",
+                "nombre":"FISICA II"
+            },
+            "16":{
+                "id":"16",
+                "nombre":"GEOMETRIA DESCRIPTIVA"
+            },
+            "17":{
+                "id":"17",
+                "nombre":"ESTATICA"
+            },
+            "18":{
+                "id":"18",
+                "nombre":"GEOLOGIA"
+            },
+            "19":{
+                "id":"19",
+                "nombre":"TECNOLOGIA DE MATERIALES"
+            },
+            "20":{
+                "id":"20",
+                "nombre":"SOFTWARE PARA INGENIERIA CIVIL"
+            },
+            "21":{
+                "id":"21",
+                "nombre":"METODOS NUMERICOS"
+            },
+            "22":{
+                "id":"22",
+                "nombre":"ESTADISTICA DESCRIPTIVA"
+            },
+            "23":{
+                "id":"23",
+                "nombre":"TOPOGRAFIA  I"
+            },
+            "24":{
+                "id":"24",
+                "nombre":"DINAMICA"
+            },
+            "25":{
+                "id":"25",
+                "nombre":"TECNOLOGIA DEL CONCRETO"
+            },
+            "26":{
+                "id":"26",
+                "nombre":"MECANICA DE FLUIDOS"
+            },
+            "27":{
+                "id":"27",
+                "nombre":"GEODESIA SATELITAL"
+            },
+            "28":{
+                "id":"28",
+                "nombre":"TOPOGRAFIA  II"
+            },
+            "29":{
+                "id":"29",
+                "nombre":"RESISTENCIA DE MATERIALES "
+            },
+            "30":{
+                "id":"30",
+                "nombre":"CONSTRUCCION  I"
+            },
+            "31":{
+                "id":"31",
+                "nombre":"HIDROLOGIA"
+            },
+            "32":{
+                "id":"32",
+                "nombre":"FOTOGRAMETRIA Y TELEDETECCION"
+            },
+            "33":{
+                "id":"33",
+                "nombre":"MECANICA DE SUELOS "
+            },
+            "34":{
+                "id":"34",
+                "nombre":"INSTALACIONES SANITARIAS "
+            },
+            "35":{
+                "id":"35",
+                "nombre":"INSTALACIONES ELECTRICAS"
+            },
+            "36":{
+                "id":"36",
+                "nombre":"INGLES  I"
+            },
+            "37":{
+                "id":"37",
+                "nombre":"DISEÑO DE OBRAS HIDRAULICAS"
+            },
+            "38":{
+                "id":"38",
+                "nombre":"CONSTRUCCION II"
+            },
+            "39":{
+                "id":"39",
+                "nombre":"ANALISIS ESTRUCTURAL I"
+            },
+            "40":{
+                "id":"40",
+                "nombre":"CAMINOS  I"
+            },
+            "41":{
+                "id":"41",
+                "nombre":"CONCRETO ARMADO I"
+            },
+            "42":{
+                "id":"42",
+                "nombre":"COSTOS Y PRESUPUESTOS"
+            },
+            "43":{
+                "id":"43",
+                "nombre":"CAMINOS  II"
+            },
+            "44":{
+                "id":"44",
+                "nombre":"CONCRETO ARMADO  II"
+            },
+            "45":{
+                "id":"45",
+                "nombre":"ANALISIS ESTRUCTURAL II"
+            },
+            "46":{
+                "id":"46",
+                "nombre":"DISEÑO EN ACERO Y MADERA"
+            },
+            "47":{
+                "id":"47",
+                "nombre":"INGLES  II"
+            },
+            "48":{
+                "id":"48",
+                "nombre":"DEONTOLOGIA PROFESIONAL"
+            },
+            "49":{
+                "id":"49",
+                "nombre":"SEMINARIO DE TESIS"
+            },
+            "50":{
+                "id":"50",
+                "nombre":"GEOLOGIA APLICADA"
+            },
+            "51":{
+                "id":"51",
+                "nombre":"INGENIERIA ANTISISMICA"
+            },
+            "52":{
+                "id":"52",
+                "nombre":"PUENTES Y OBRAS DE ARTE"
+            },
+            "53":{
+                "id":"53",
+                "nombre":"INGLES  III"
+            },
+            "54":{
+                "id":"54",
+                "nombre":"TALLER DE TESIS"
+            },
+            "55":{
+                "id":"55",
+                "nombre":"PROYECTO DE IRRIGACIONES"
+            },
+            "56":{
+                "id":"56",
+                "nombre":"CONTROL Y SUPERVISION DE OBRAS"
+            },
+            "57":{
+                "id":"57",
+                "nombre":"EVALUACION DE PROYECTOS AMBIENTALES"
+            },
+            "58":{
+                "id":"58",
+                "nombre":"PLANEAMIENTO URBANO Y REGIONAL"
+            },
+            "59":{
+                "id":"59",
+                "nombre":"INGLES  IV"
+            }
+        }
+    },
+    "12":{
+        "id":"12",
+        "nombre": "INGENIERIA DE SISTEMAS",
+        "asignaturas": {
+            "1":{
+                "id":"1",
+                "nombre":"MATEMATICA BASICA"
+            },
+            "2":{
+                "id":"2",
+                "nombre":"COMUNICACION I"
+            },
+            "3":{
+                "id":"3",
+                "nombre":"FILOSOFIA"
+            },
+            "4":{
+                "id":"4",
+                "nombre":"METODOLOGIA DEL TRABAJO UNIVERSITARIO"
+            },
+            "5":{
+                "id":"5",
+                "nombre":"OFIMATICA"
+            },
+            "6":{
+                "id":"6",
+                "nombre":"INTRODUCCION A LA INGENIERIA DE SISTEMAS"
+            },
+            "7":{
+                "id":"7",
+                "nombre":"ANALISIS MATEMATICO I"
+            },
+            "8":{
+                "id":"8",
+                "nombre":"COMUNICACION II"
+            },
+            "9":{
+                "id":"9",
+                "nombre":"METODOLOGIA DE LA INVESTIGACION CIENTIFICA"
+            },
+            "10":{
+                "id":"10",
+                "nombre":"REALIDAD PERUANA Y GLOBALIZACION"
+            },
+            "11":{
+                "id":"11",
+                "nombre":"ALGOTITMIA Y ESTRUCTURA DE DATOS"
+            },
+            "12":{
+                "id":"12",
+                "nombre":"ADMINISTRACION EMPRESARIAL"
+            },
+            "13":{
+                "id":"13",
+                "nombre":"ANALISIS MATEMATICO II"
+            },
+            "14":{
+                "id":"14",
+                "nombre":"ECONOMIA EMPRESARIAL"
+            },
+            "15":{
+                "id":"15",
+                "nombre":"INGENIERIA DE REQUERIMIENTO"
+            },
+            "16":{
+                "id":"16",
+                "nombre":"MODELAMIENTO DE BASE DE  DATOS "
+            },
+            "17":{
+                "id":"17",
+                "nombre":"FISICA GENERAL"
+            },
+            "18":{
+                "id":"18",
+                "nombre":"LENGUAJE DE PROGRAMACION I"
+            },
+            "19":{
+                "id":"19",
+                "nombre":"MATEMATICA FINANCIERA"
+            },
+            "20":{
+                "id":"20",
+                "nombre":"ESTADISTICA DESCRIPTIVA"
+            },
+            "21":{
+                "id":"21",
+                "nombre":"INGENIERIA DE PROCESOS"
+            },
+            "22":{
+                "id":"22",
+                "nombre":"DISEÑO DE BASE DE DATOS"
+            },
+            "23":{
+                "id":"23",
+                "nombre":"LENGUAJE DE PROGRAMACION II"
+            },
+            "24":{
+                "id":"24",
+                "nombre":"FISICA  ELECTRONICA"
+            },
+            "25":{
+                "id":"25",
+                "nombre":"ESTADISTICA INFERENCIAL"
+            },
+            "26":{
+                "id":"26",
+                "nombre":"INVESTIGACION OPERATIVA  I"
+            },
+            "27":{
+                "id":"27",
+                "nombre":"CIRCUITOS DIGITALES"
+            },
+            "28":{
+                "id":"28",
+                "nombre":"ADMINISTRACION DE BASE DE DATOS"
+            },
+            "29":{
+                "id":"29",
+                "nombre":"LENGUAJE DE PROGRAMACION III"
+            },
+            "30":{
+                "id":"30",
+                "nombre":"PROYECTO INTEGRADOR I"
+            },
+            "31":{
+                "id":"31",
+                "nombre":"FORMULACION Y EVALUACION DE PROYECTOS"
+            },
+            "32":{
+                "id":"32",
+                "nombre":"INVESTIGACION OPERATIVA II"
+            },
+            "33":{
+                "id":"33",
+                "nombre":"ARQUITECTURA DE COMPUTADORAS"
+            },
+            "34":{
+                "id":"34",
+                "nombre":"DESARROLLO DE APLICACIONES"
+            },
+            "35":{
+                "id":"35",
+                "nombre":"INGENIERIA DE  SOFTWARE "
+            },
+            "36":{
+                "id":"36",
+                "nombre":"ANALISIS Y DISEÑO DE SISTEMAS DE INFORMACION "
+            },
+            "37":{
+                "id":"37",
+                "nombre":"GESTION DE PROYECTOS"
+            },
+            "38":{
+                "id":"38",
+                "nombre":"SISTEMAS OPERATIVOS "
+            },
+            "39":{
+                "id":"39",
+                "nombre":"REDES Y TELECOMUNICACIONES."
+            },
+            "40":{
+                "id":"40",
+                "nombre":"DESARROLLO DE APLICACIONES EN WEB"
+            },
+            "41":{
+                "id":"41",
+                "nombre":"COMPROBACION DE SOFTWARE"
+            },
+            "42":{
+                "id":"42",
+                "nombre":"INGLES  I"
+            },
+            "43":{
+                "id":"43",
+                "nombre":"INGLES  II"
+            },
+            "44":{
+                "id":"44",
+                "nombre":"DESARROLLO DE SISTEMAS EN TIEMPO REAL"
+            },
+            "45":{
+                "id":"45",
+                "nombre":"ADMINISTRACION DE REDES Y TELECOMUNICACIONES"
+            },
+            "46":{
+                "id":"46",
+                "nombre":"CONTROL DE CALIDAD DE SOFTWARE Y SISTEMAS"
+            },
+            "47":{
+                "id":"47",
+                "nombre":"INTELIGENCIA ARTIFICIAL"
+            },
+            "48":{
+                "id":"48",
+                "nombre":"PROYECTO INTEGRADOR II"
+            },
+            "49":{
+                "id":"49",
+                "nombre":"DEONTOLOGIA PROFESIONAL"
+            },
+            "50":{
+                "id":"50",
+                "nombre":"SEMINARIO DE TESIS"
+            },
+            "51":{
+                "id":"51",
+                "nombre":"MICROPROCESADORES "
+            },
+            "52":{
+                "id":"52",
+                "nombre":"SISTEMAS EXPERTOS "
+            },
+            "53":{
+                "id":"53",
+                "nombre":"INGLES  III"
+            },
+            "54":{
+                "id":"54",
+                "nombre":"TECNOLOGIA DE MULTIMEDIA, Y REALIDAD VIRTUAL"
+            },
+            "55":{
+                "id":"55",
+                "nombre":"PROYECTO INTEGRADOR  III"
+            },
+            "56":{
+                "id":"56",
+                "nombre":"SEGURIDAD DE LA INFORMACION Y AUDITORIA DE SISTEMAS"
+            },
+            "57":{
+                "id":"57",
+                "nombre":"SISTEMAS DE INFORMACION GERENCIAL"
+            },
+            "58":{
+                "id":"58",
+                "nombre":"TECNOLOGIAS EMERGENTES "
+            },
+            "59":{
+                "id":"59",
+                "nombre":"INGLES  IV"
+            },
+            "60":{
+                "id":"60",
+                "nombre":"TALLER DE TESIS"
+            }
+        }
+    },
+    "13":{
+        "id":"13",
+        "nombre": "INGENIERIA DE SISTEMAS Y TELECOMUNICACIONES",
+        "asignaturas": {
+            "1":{
+                "id":"1",
+                "nombre":"MATEMATICA BASICA"
+            },
+            "2":{
+                "id":"2",
+                "nombre":"COMUNICACION I"
+            },
+            "3":{
+                "id":"3",
+                "nombre":"FILOSOFIA"
+            },
+            "4":{
+                "id":"4",
+                "nombre":"METODOLOGIA DEL TRABAJO UNIVERSITARIO"
+            },
+            "5":{
+                "id":"5",
+                "nombre":"OFIMATICA EMPRESARIAL I"
+            },
+            "6":{
+                "id":"6",
+                "nombre":"INTRODUCCION A LA TECNOLOGIA DE LA INFORMACION Y TELECOMUNICACIONES"
+            },
+            "7":{
+                "id":"7",
+                "nombre":"ANALISIS MATEMATICO I"
+            },
+            "8":{
+                "id":"8",
+                "nombre":"COMUNICACION II"
+            },
+            "9":{
+                "id":"9",
+                "nombre":"REALIDAD PERUANA Y GLOBALIZACION"
+            },
+            "10":{
+                "id":"10",
+                "nombre":"FISICA I"
+            },
+            "11":{
+                "id":"11",
+                "nombre":"ALGOTITMIA Y ESTRUCTURA DE DATOS"
+            },
+            "12":{
+                "id":"12",
+                "nombre":"ADMINISTRACION EMPRESARIAL"
+            }
+        }
+    },
+    "14":{
+        "id":"14",
+        "nombre": "INGENIERIA ELECTRONICA",
+        "asignaturas": {
+            "1":{
+                "id":"1",
+                "nombre":"MATEMATICA BASICA"
+            },
+            "2":{
+                "id":"2",
+                "nombre":"COMUNICACION I"
+            },
+            "3":{
+                "id":"3",
+                "nombre":"DIBUJO TECNICO DE INGENIERIA"
+            },
+            "4":{
+                "id":"4",
+                "nombre":"METODOLOGIA DEL TRABAJO UNIVERSITARIO"
+            },
+            "5":{
+                "id":"5",
+                "nombre":"OFIMATICA "
+            },
+            "6":{
+                "id":"6",
+                "nombre":"INTRODUCCION A LA INGENIERIA ELECTRONICA"
+            },
+            "7":{
+                "id":"7",
+                "nombre":"ANALISIS MATEMATICO I"
+            },
+            "8":{
+                "id":"8",
+                "nombre":"METODOLOGIA DE LA INVESTIGACION CIENTIFICA"
+            },
+            "9":{
+                "id":"9",
+                "nombre":"QUIMICA INDUSTRIAL"
+            },
+            "10":{
+                "id":"10",
+                "nombre":"FISICA I"
+            },
+            "11":{
+                "id":"11",
+                "nombre":"ADMINISTRACION EMPRESARIAL"
+            },
+            "12":{
+                "id":"12",
+                "nombre":"DISPOSITIVOS Y COMPONENTES ELECTRONICOS "
+            },
+            "13":{
+                "id":"13",
+                "nombre":"ANALISIS MATEMATICO II"
+            },
+            "14":{
+                "id":"14",
+                "nombre":"ANALISIS DE CIRCUITOS ELECTRONICOS I"
+            },
+            "15":{
+                "id":"15",
+                "nombre":"ECONOMIA EMPRESARIAL"
+            },
+            "16":{
+                "id":"16",
+                "nombre":"FUNDAMNETOS DE TELECOMUNICACIONES"
+            },
+            "17":{
+                "id":"17",
+                "nombre":"LENGUAJE DE PROGRAMACION I"
+            },
+            "18":{
+                "id":"18",
+                "nombre":"FISICA II"
+            },
+            "19":{
+                "id":"19",
+                "nombre":"ESTADISTICA DESCRIPTIVA"
+            },
+            "20":{
+                "id":"20",
+                "nombre":"LINEAS DE TRASMISION"
+            },
+            "21":{
+                "id":"21",
+                "nombre":"ANALISIS DE CIRCUITOS ELECTRONICOS II"
+            },
+            "22":{
+                "id":"22",
+                "nombre":"METODOS NUMERICOS"
+            },
+            "23":{
+                "id":"23",
+                "nombre":"CIRCUITOS DIGITALES I"
+            },
+            "24":{
+                "id":"24",
+                "nombre":"FISICA III"
+            },
+            "25":{
+                "id":"25",
+                "nombre":"ESTADISTICA INFERENCIAL"
+            },
+            "26":{
+                "id":"26",
+                "nombre":"CIRCUITOS DIGITALES II"
+            },
+            "27":{
+                "id":"27",
+                "nombre":"CIRCUITOS ELECTRONICOS I"
+            },
+            "28":{
+                "id":"28",
+                "nombre":"TELECOMUNICACIONES I"
+            },
+            "29":{
+                "id":"29",
+                "nombre":"INVESTIGACION OPERATIVA  I"
+            },
+            "30":{
+                "id":"30",
+                "nombre":"SOFTWARE DE SIMULACION ELECTRONICA"
+            },
+            "31":{
+                "id":"31",
+                "nombre":"RADIACION Y PROPAGACION ELECTROMAGNETICA"
+            },
+            "32":{
+                "id":"32",
+                "nombre":"TELECOMUNICACIONES II"
+            },
+            "33":{
+                "id":"33",
+                "nombre":"CIRCUITOS ELECTRONICOS II"
+            },
+            "34":{
+                "id":"34",
+                "nombre":"FORMULACION Y EVALUACION DE PROYECTOS"
+            },
+            "35":{
+                "id":"35",
+                "nombre":"ARQUITECTURA DE COMPUTADORAS"
+            },
+            "36":{
+                "id":"36",
+                "nombre":"ANTENAS"
+            },
+            "37":{
+                "id":"37",
+                "nombre":"COMUNICACIONES MOVILES"
+            },
+            "38":{
+                "id":"38",
+                "nombre":"INGENIERIA DE CONTROL"
+            },
+            "39":{
+                "id":"39",
+                "nombre":"GESTION DE PROYECTOS"
+            },
+            "40":{
+                "id":"40",
+                "nombre":"INGENIERIA DE FIBRA OPTICA"
+            },
+            "41":{
+                "id":"41",
+                "nombre":"MAQUINAS ELECTRICAS"
+            },
+            "42":{
+                "id":"42",
+                "nombre":"INGLES  I"
+            },
+            "43":{
+                "id":"43",
+                "nombre":"INGENIERIA DE POTENCIA"
+            },
+            "44":{
+                "id":"44",
+                "nombre":"COMUNICACIONES VIAS MICRO ONDAS Y SATELITAL"
+            },
+            "45":{
+                "id":"45",
+                "nombre":"ANTENAS"
+            },
+            "46":{
+                "id":"46",
+                "nombre":"PROCESAMIENTO DIGITAL DE SEÑALES"
+            },
+            "47":{
+                "id":"47",
+                "nombre":"SISTEMAS DE RADIO Y TELEVISION"
+            },
+            "48":{
+                "id":"48",
+                "nombre":"INGLES  II"
+            },
+            "49":{
+                "id":"49",
+                "nombre":"DEONTOLOGIA PROFESIONAL"
+            },
+            "50":{
+                "id":"50",
+                "nombre":"SEMINARIO DE TESIS "
+            },
+            "51":{
+                "id":"51",
+                "nombre":"MICROPROCESADORES"
+            },
+            "52":{
+                "id":"52",
+                "nombre":"LEGISLACION Y PROTOCOLO  DE LAS TELECOMUNICACIONES"
+            },
+            "53":{
+                "id":"53",
+                "nombre":"REDES Y TELEPROCESO"
+            },
+            "54":{
+                "id":"54",
+                "nombre":"INGLES  III"
+            },
+            "55":{
+                "id":"55",
+                "nombre":"TALLER DE TESIS"
+            },
+            "56":{
+                "id":"56",
+                "nombre":"MECANICA Y ROBOTICA"
+            },
+            "57":{
+                "id":"57",
+                "nombre":"NUEVAS METODOLOGIAS Y REDES IP"
+            },
+            "58":{
+                "id":"58",
+                "nombre":"DISEÑO DE REDES CON FIBRA OPTICA"
+            },
+            "59":{
+                "id":"59",
+                "nombre":"INGLES  IV"
+            },
+            "60":{
+                "id":"60",
+                "nombre":"SISTEMAS DE CABLEADO ESTRUCTURADO"
+            }
+        }
+    },
+    "15":{
+        "id":"15",
+        "nombre": "INGENIERIA INDUSTRIAL",
+        "asignaturas": {
+            "1":{
+                "id":"1",
+                "nombre":"MATEMATICA BASICA"
+            },
+            "2":{
+                "id":"2",
+                "nombre":"COMUNICACION I"
+            },
+            "3":{
+                "id":"3",
+                "nombre":"METODOLOGIA DEL TRABAJO UNIVERSITARIO"
+            },
+            "4":{
+                "id":"4",
+                "nombre":"OFIMATICA EMPRESARIAL I"
+            },
+            "5":{
+                "id":"5",
+                "nombre":"INTRODUCCION LA INGENIERIA INDUSTRIAL"
+            },
+            "6":{
+                "id":"6",
+                "nombre":"DIBUJO TECNICO DE INGENIERIA"
+            },
+            "7":{
+                "id":"7",
+                "nombre":"ANALISIS MATEMATICO I"
+            },
+            "8":{
+                "id":"8",
+                "nombre":"METODOLOGIA DE LA INVESTIGACION CIENTIFICA"
+            },
+            "9":{
+                "id":"9",
+                "nombre":"ADMINISTRACION EMPRESARIAL"
+            },
+            "10":{
+                "id":"10",
+                "nombre":"COMUNICACION II"
+            },
+            "11":{
+                "id":"11",
+                "nombre":"OFIMATICA EMPRESARIAL II"
+            },
+            "12":{
+                "id":"12",
+                "nombre":"FISICA I"
+            },
+            "13":{
+                "id":"13",
+                "nombre":"ANALISIS MATEMATICO II"
+            },
+            "14":{
+                "id":"14",
+                "nombre":"ECONOMIA EMPRESARIAL"
+            },
+            "15":{
+                "id":"15",
+                "nombre":"FISICA II"
+            },
+            "16":{
+                "id":"16",
+                "nombre":"GEOMETRIA DESCRIPTIVA"
+            },
+            "17":{
+                "id":"17",
+                "nombre":"CONTABILIDAD GENERAL"
+            },
+            "18":{
+                "id":"18",
+                "nombre":"DISEÑO DE INGENIERIA I"
+            },
+            "19":{
+                "id":"19",
+                "nombre":"MATEMATICA FINANCIERA"
+            },
+            "20":{
+                "id":"20",
+                "nombre":"ANALISIS MATEMATICO III"
+            },
+            "21":{
+                "id":"21",
+                "nombre":"MICROECONOMIA"
+            },
+            "22":{
+                "id":"22",
+                "nombre":"ESTADISTICA DESCRIPTIVA"
+            },
+            "23":{
+                "id":"23",
+                "nombre":"PROCESOS DE LA GESTION ADMINISTRATIVA"
+            },
+            "24":{
+                "id":"24",
+                "nombre":"DISEÑO DE INGENIERIA II"
+            },
+            "25":{
+                "id":"25",
+                "nombre":"INGENIERIA DE METODOS  I"
+            },
+            "26":{
+                "id":"26",
+                "nombre":"PROGRAMACION ESTRUCTURADA  I"
+            },
+            "27":{
+                "id":"27",
+                "nombre":"FINANZAS E INSTITUCIONES FINANCIERAS"
+            },
+            "28":{
+                "id":"28",
+                "nombre":"INVESTIGACION OPERATIVA  I"
+            },
+            "29":{
+                "id":"29",
+                "nombre":"RESISTENCIA DE MATERIALES"
+            },
+            "30":{
+                "id":"30",
+                "nombre":"COSTOS INDUSTRIALES"
+            },
+            "31":{
+                "id":"31",
+                "nombre":"FORMULACION  Y EVALUACION DE PROYECTOS"
+            },
+            "32":{
+                "id":"32",
+                "nombre":"PROGRAMACION ESTRUCTURADA II"
+            },
+            "33":{
+                "id":"33",
+                "nombre":"INVESTIGACION OPERATIVA II"
+            },
+            "34":{
+                "id":"34",
+                "nombre":"INGENIERIA DE METODOS  II"
+            },
+            "35":{
+                "id":"35",
+                "nombre":"GESTION DE PROYECTOS"
+            },
+            "36":{
+                "id":"36",
+                "nombre":"SEGURIDAD E HIGIENE INDUSTRIAL"
+            },
+            "37":{
+                "id":"37",
+                "nombre":"MANTENIMIENTO INDUSTRIAL"
+            },
+            "38":{
+                "id":"38",
+                "nombre":"GESTION DE SERVICIOS"
+            },
+            "39":{
+                "id":"39",
+                "nombre":"DISEÑO Y DISTRIBUCION DE PLANTA "
+            },
+            "40":{
+                "id":"40",
+                "nombre":"INGLES  I"
+            },
+            "41":{
+                "id":"41",
+                "nombre":"INTELIGENCIA DE NEGOCIOS"
+            },
+            "42":{
+                "id":"42",
+                "nombre":"COSTOS Y PRESUPUESTOS "
+            },
+            "43":{
+                "id":"43",
+                "nombre":"DISEÑO Y DESARROLLO DE PRODUCTOS"
+            },
+            "44":{
+                "id":"44",
+                "nombre":"GERENCIA FINANCIERA"
+            },
+            "45":{
+                "id":"45",
+                "nombre":"CONTROL DE PROCESOS INDUSTRIALES"
+            },
+            "46":{
+                "id":"46",
+                "nombre":"INGLES  II"
+            },
+            "47":{
+                "id":"47",
+                "nombre":"DEONTOLOGIA PROFESIONAL"
+            },
+            "48":{
+                "id":"48",
+                "nombre":"SEMINARIO DE TESIS"
+            },
+            "49":{
+                "id":"49",
+                "nombre":"ADMINISTRACION DE OPERACIONES"
+            },
+            "50":{
+                "id":"50",
+                "nombre":"LEGISLACION EMPRESARIAL Y TRIBUTARIA"
+            },
+            "51":{
+                "id":"51",
+                "nombre":"PLANEAMIENTO Y CONTROL DE LA PRODUCCION"
+            },
+            "52":{
+                "id":"52",
+                "nombre":"INGLES  III"
+            },
+            "53":{
+                "id":"53",
+                "nombre":"ESTRATEGIA DE NEGOCIACION"
+            },
+            "54":{
+                "id":"54",
+                "nombre":"SISTEMAS INTEGRADOS DE INFORMACION GERENCIAL"
+            },
+            "55":{
+                "id":"55",
+                "nombre":"GERENCIA ESTRATEGICA"
+            },
+            "56":{
+                "id":"56",
+                "nombre":"INGLES  IV"
+            },
+            "57":{
+                "id":"57",
+                "nombre":"TALLER  DE TESIS"
+            }
+        }
+    },
+    "16":{
+        "id":"16",
+        "nombre": "MARKETING",
+        "asignaturas": {
+            "1":{
+                "id":"1",
+                "nombre":"MATEMATICA BASICA"
+            },
+            "2":{
+                "id":"2",
+                "nombre":"COMUNICACION I"
+            },
+            "3":{
+                "id":"3",
+                "nombre":"FILOSOFIA"
+            },
+            "4":{
+                "id":"4",
+                "nombre":"METODOLOGIA DEL TRABAJO UNIVERSITARIO"
+            },
+            "5":{
+                "id":"5",
+                "nombre":"OFIMATICA EMPRESARIAL I"
+            },
+            "6":{
+                "id":"6",
+                "nombre":"INTRODUCCION AL MARKETING "
+            },
+            "7":{
+                "id":"7",
+                "nombre":"ANALISIS MATEMATICO I"
+            },
+            "8":{
+                "id":"8",
+                "nombre":"OFIMATICA EMPRESARIAL II"
+            },
+            "9":{
+                "id":"9",
+                "nombre":"REALIDAD PERUANA Y GLOBALIZACION "
+            },
+            "10":{
+                "id":"10",
+                "nombre":"COMUNICACION II"
+            },
+            "11":{
+                "id":"11",
+                "nombre":"METODOLOGIA DE LA INVESTIGACION CIENTIFICA"
+            },
+            "12":{
+                "id":"12",
+                "nombre":"ADMINISTRACION EMPRESARIAL"
+            },
+            "13":{
+                "id":"13",
+                "nombre":"COMPORTAMIENTO ORGANIZACIONAL"
+            },
+            "14":{
+                "id":"14",
+                "nombre":"CONTABILIDAD GENERAL"
+            },
+            "15":{
+                "id":"15",
+                "nombre":"DISEÑO GRAFICO PARA MARKETING"
+            },
+            "16":{
+                "id":"16",
+                "nombre":"DISEÑO ORGANIZACIONAL DE PROCESOS"
+            },
+            "17":{
+                "id":"17",
+                "nombre":"MARKETING ESTRATEGICO "
+            },
+            "18":{
+                "id":"18",
+                "nombre":"ECONOMIA EMPRESARIAL"
+            },
+            "19":{
+                "id":"19",
+                "nombre":"MATEMATICA FINANCIERA"
+            },
+            "20":{
+                "id":"20",
+                "nombre":"ESTADISTICA DESCRIPTIVA"
+            },
+            "21":{
+                "id":"21",
+                "nombre":"MARKETING INTERNACIONAL"
+            },
+            "22":{
+                "id":"22",
+                "nombre":"COMPORTAMIENTO DEL CONSUMIDOR"
+            },
+            "23":{
+                "id":"23",
+                "nombre":"MICROECONOMIA"
+            },
+            "24":{
+                "id":"24",
+                "nombre":"PROCESO DE LA GESTION ADMINISTRATIVA"
+            },
+            "25":{
+                "id":"25",
+                "nombre":"ESTRATEGIA PROMOCIONAL"
+            },
+            "26":{
+                "id":"26",
+                "nombre":"MARKETING INDUSTRIAL"
+            },
+            "27":{
+                "id":"27",
+                "nombre":"GESTION DE NEGOCIOS INTERNACIONALES"
+            },
+            "28":{
+                "id":"28",
+                "nombre":"MACROECONOMIA "
+            },
+            "29":{
+                "id":"29",
+                "nombre":"FINANZAS E INSTITUCIONES FINANCIERAS"
+            },
+            "30":{
+                "id":"30",
+                "nombre":"PSICOLOGIA GENERAL"
+            },
+            "31":{
+                "id":"31",
+                "nombre":"COMUNICACION , PUBLICIDAD E IMAGEN CORPORATIVA "
+            },
+            "32":{
+                "id":"32",
+                "nombre":"MARKETING PERSONAL"
+            },
+            "33":{
+                "id":"33",
+                "nombre":"GERENCIA DE VENTAS"
+            },
+            "34":{
+                "id":"34",
+                "nombre":"POLITICA DE PRECIOS"
+            },
+            "35":{
+                "id":"35",
+                "nombre":"FORMULACION Y EVALUACION DE PROYECTOS"
+            },
+            "36":{
+                "id":"36",
+                "nombre":"GESTION DEL TALENTO HUMANO "
+            },
+            "37":{
+                "id":"37",
+                "nombre":"INGLES  I"
+            },
+            "38":{
+                "id":"38",
+                "nombre":"MARKETING DE SERVICIOS"
+            },
+            "39":{
+                "id":"39",
+                "nombre":"GESTION DE SERVICIO AL CLIENTE"
+            },
+            "40":{
+                "id":"40",
+                "nombre":"GESTION DE MARCAS E INTANGIBLES"
+            },
+            "41":{
+                "id":"41",
+                "nombre":"INVESTIGACION DE MERCADOS NACIONALES E INTERNACIONALES"
+            },
+            "42":{
+                "id":"42",
+                "nombre":"GESTION DE PROYECTOS "
+            },
+            "43":{
+                "id":"43",
+                "nombre":"INGLES  II"
+            },
+            "44":{
+                "id":"44",
+                "nombre":"GESTION DE LA CALIDAD"
+            },
+            "45":{
+                "id":"45",
+                "nombre":"CANALES DE DISTRIBUCION LOGISTICA"
+            },
+            "46":{
+                "id":"46",
+                "nombre":"GERENCIA DE PRODUCTOS"
+            },
+            "47":{
+                "id":"47",
+                "nombre":"COSTOS Y PRESUPUESTOS"
+            },
+            "48":{
+                "id":"48",
+                "nombre":"COMERCIO ELECTRONICO"
+            },
+            "49":{
+                "id":"49",
+                "nombre":"INGLES  III"
+            },
+            "50":{
+                "id":"50",
+                "nombre":"MARKETING POLITICO"
+            },
+            "51":{
+                "id":"51",
+                "nombre":"DEONTOLOGIA PROFESIONAL"
+            },
+            "52":{
+                "id":"52",
+                "nombre":"SEMINARIO DE TESIS "
+            },
+            "53":{
+                "id":"53",
+                "nombre":"GESTION DE ESTRATEGIAS DE RESPONSABILIDAD SOCIAL"
+            },
+            "54":{
+                "id":"54",
+                "nombre":"ANIMACION WEB PARA MARKETING"
+            },
+            "55":{
+                "id":"55",
+                "nombre":"INGLES  IV"
+            },
+            "56":{
+                "id":"56",
+                "nombre":"ESTRATEGIA DE NEGOCIACION"
+            },
+            "57":{
+                "id":"57",
+                "nombre":"MARKETING RELACIONAL  Y CRM"
+            },
+            "58":{
+                "id":"58",
+                "nombre":"INGENIERIA COMERCIAL"
+            },
+            "59":{
+                "id":"59",
+                "nombre":"TRADE MARKTING"
+            },
+            "60":{
+                "id":"60",
+                "nombre":"TALLER DE TESIS"
+            }
+        }
+    },
+    "17":{
+        "id":"17",
+        "nombre": "MEDICINA HUMANA",
+        "asignaturas": {
+            "1":{
+                "id":"1",
+                "nombre":"MATEMATICA "
+            },
+            "2":{
+                "id":"2",
+                "nombre":"FISICA"
+            },
+            "3":{
+                "id":"3",
+                "nombre":"QUIMICA"
+            },
+            "4":{
+                "id":"4",
+                "nombre":"COMUNICACION I"
+            },
+            "5":{
+                "id":"5",
+                "nombre":"CIENCIAS SOCIALES Y REALIDAD NACIONAL"
+            },
+            "6":{
+                "id":"6",
+                "nombre":"INFORMATICA MEDICA I"
+            },
+            "7":{
+                "id":"7",
+                "nombre":"COMUNICACION II"
+            },
+            "8":{
+                "id":"8",
+                "nombre":"PSICOLOGIA GENERAL"
+            },
+            "9":{
+                "id":"9",
+                "nombre":"ETICA"
+            },
+            "10":{
+                "id":"10",
+                "nombre":"BIOLOGIA CELULAR Y MOLECULAR"
+            },
+            "11":{
+                "id":"11",
+                "nombre":"INGLES BASICO I"
+            },
+            "12":{
+                "id":"12",
+                "nombre":"ECOLOGIA"
+            },
+            "13":{
+                "id":"13",
+                "nombre":"PROCEDIMIENTOS BASICOS EN MEDICINA"
+            },
+            "14":{
+                "id":"14",
+                "nombre":"ANATOMIA HUMANA"
+            },
+            "15":{
+                "id":"15",
+                "nombre":"EMBRIOLOGIA Y GENETICA"
+            },
+            "16":{
+                "id":"16",
+                "nombre":"HISTOLOGIA HUMANA"
+            },
+            "17":{
+                "id":"17",
+                "nombre":"INGLES BASICO II"
+            },
+            "18":{
+                "id":"18",
+                "nombre":"MICROBIOLOGIA"
+            },
+            "19":{
+                "id":"19",
+                "nombre":"PARASITOLOGIA"
+            },
+            "20":{
+                "id":"20",
+                "nombre":"BIOQUIMICA"
+            },
+            "21":{
+                "id":"21",
+                "nombre":"INMUNOLOGIA BASICA"
+            },
+            "22":{
+                "id":"22",
+                "nombre":"BIOESTADISTICA"
+            },
+            "23":{
+                "id":"23",
+                "nombre":"INGLES BASICO III"
+            },
+            "24":{
+                "id":"24",
+                "nombre":"FISIOLOGIA HUMANA"
+            },
+            "25":{
+                "id":"25",
+                "nombre":"EPIDEMIOLOGIA"
+            },
+            "26":{
+                "id":"26",
+                "nombre":"DEONTOLOGIA PROFESIONAL"
+            },
+            "27":{
+                "id":"27",
+                "nombre":"METODOLOGIA DE LA INVESTIGACION I"
+            },
+            "28":{
+                "id":"28",
+                "nombre":"PSICOLOGIA MEDICA"
+            },
+            "29":{
+                "id":"29",
+                "nombre":"INFORMATICA MEDICA II"
+            }
+        }
+    },
+    "18":{
+        "id":"18",
+        "nombre": "NUTRICION",
+        "asignaturas": {
+            "1":{
+                "id":"1",
+                "nombre":"QUIMICA GENERAL"
+            },
+            "2":{
+                "id":"2",
+                "nombre":"BIOLOGIA"
+            },
+            "3":{
+                "id":"3",
+                "nombre":"MATEMATICA BASICA"
+            },
+            "4":{
+                "id":"4",
+                "nombre":"COMUNICACION I"
+            },
+            "5":{
+                "id":"5",
+                "nombre":"METODOLOGIA DEL TRABAJO UNIVERSITARIO"
+            },
+            "6":{
+                "id":"6",
+                "nombre":"OFIMATICA EMPRESARIAL I"
+            },
+            "7":{
+                "id":"7",
+                "nombre":"INTRODUCCION A LA NUTRICION"
+            },
+            "8":{
+                "id":"8",
+                "nombre":"ANALISIS MATEMATICO I"
+            },
+            "9":{
+                "id":"9",
+                "nombre":"COMUNICACION II"
+            },
+            "10":{
+                "id":"10",
+                "nombre":"REALIDAD PERUANA Y GLOBALIZACION"
+            },
+            "11":{
+                "id":"11",
+                "nombre":"METODOLOGIA DE LA INVESTIGACION"
+            },
+            "12":{
+                "id":"12",
+                "nombre":"OFIMATICA EMPRESARIAL II"
+            },
+            "13":{
+                "id":"13",
+                "nombre":"ADMINISTRACION EMPRESARIAL"
+            },
+            "14":{
+                "id":"14",
+                "nombre":"ANATOMIA HUMANA"
+            }
+        }
+    },
+    "19":{
+        "id":"19",
+        "nombre": "OBSTETRICIA",
+        "asignaturas": {
+            "1":{
+                "id":"1",
+                "nombre":"MATEMATICA BASICA"
+            },
+            "2":{
+                "id":"2",
+                "nombre":"COMUNICACION "
+            },
+            "3":{
+                "id":"3",
+                "nombre":"OFIMATICA"
+            },
+            "4":{
+                "id":"4",
+                "nombre":"METODOLOGIA DEL TRABAJO UNIVERSITARIO"
+            },
+            "5":{
+                "id":"5",
+                "nombre":"BIOLOGIA "
+            },
+            "6":{
+                "id":"6",
+                "nombre":"QUIMICA GENERAL"
+            },
+            "7":{
+                "id":"7",
+                "nombre":"OBSTETRICIA COMUNITARIA Y PROMOCION DE VIDA SALUDABLE"
+            },
+            "8":{
+                "id":"8",
+                "nombre":"PSICOLOGIA EVOLUTIVA"
+            },
+            "9":{
+                "id":"9",
+                "nombre":"ANATOMIA HUMANA"
+            },
+            "10":{
+                "id":"10",
+                "nombre":"BIOQUIMICA GENERAL"
+            },
+            "11":{
+                "id":"11",
+                "nombre":"METODOLOGIA DE LA INVESTIGACION CIENTIFICA"
+            },
+            "12":{
+                "id":"12",
+                "nombre":"SALUD MENTAL"
+            },
+            "13":{
+                "id":"13",
+                "nombre":"CUIDADOS ESCENCIALES DEL PACIENTE"
+            },
+            "14":{
+                "id":"14",
+                "nombre":"EMBRIOLOGIA Y GENETICA"
+            },
+            "15":{
+                "id":"15",
+                "nombre":"NEUROFISIOLOGIA GENERAL "
+            },
+            "16":{
+                "id":"16",
+                "nombre":"MICROBIOLOGIA Y PARASITOLOGIA"
+            },
+            "17":{
+                "id":"17",
+                "nombre":"FARMACOLOGIA GENERAL Y TERAPEUTICA"
+            },
+            "18":{
+                "id":"18",
+                "nombre":"BIOESTADISTICA E INFORMATICA EN SALUD"
+            },
+            "19":{
+                "id":"19",
+                "nombre":"EPIDEMIOLOGIA"
+            },
+            "20":{
+                "id":"20",
+                "nombre":"LABORATORIO CLINICO"
+            },
+            "21":{
+                "id":"21",
+                "nombre":"HISTOLOGIA GENERAL Y OBSTETRICA"
+            },
+            "22":{
+                "id":"22",
+                "nombre":"ANATOMIA ESPECIALIZADA"
+            },
+            "23":{
+                "id":"23",
+                "nombre":"SEXUALIDAD HUMANA"
+            },
+            "24":{
+                "id":"24",
+                "nombre":"SEMIOLOGIA GENERAL Y OBSTETRICA"
+            },
+            "25":{
+                "id":"25",
+                "nombre":"NUTRICION"
+            },
+            "26":{
+                "id":"26",
+                "nombre":"SALUD PUBLICA"
+            },
+            "27":{
+                "id":"27",
+                "nombre":"SALUD INTEGRAL DE LA MUJER"
+            },
+            "28":{
+                "id":"28",
+                "nombre":"ETICA PROFESIONAL"
+            },
+            "29":{
+                "id":"29",
+                "nombre":"ADMINISTRACION Y GERENCIA EN SALUD"
+            },
+            "30":{
+                "id":"30",
+                "nombre":"SALUD DE ATENCION INTEGRAL DEL ADOLECENTE"
+            },
+            "31":{
+                "id":"31",
+                "nombre":"OBSTETRICIA FORENSE"
+            },
+            "32":{
+                "id":"32",
+                "nombre":"OBSTETRICIA  I"
+            },
+            "33":{
+                "id":"33",
+                "nombre":"FISIOPATOLOGIA OBSTETRICA"
+            },
+            "34":{
+                "id":"34",
+                "nombre":"OBSTETRICIA  II"
+            },
+            "35":{
+                "id":"35",
+                "nombre":"CIRUGIA MENOR Y OBSTETRICA"
+            },
+            "36":{
+                "id":"36",
+                "nombre":"GINECOLOGIA Y DIAGNOSTICO POR IMAGENES"
+            },
+            "37":{
+                "id":"37",
+                "nombre":"MEDICINA ALTERNATIVA Y COMPLEMENTARIA"
+            },
+            "38":{
+                "id":"38",
+                "nombre":"PRIMEROS AUXILIOS"
+            },
+            "39":{
+                "id":"39",
+                "nombre":"INGLES  I"
+            },
+            "40":{
+                "id":"40",
+                "nombre":"PLANIFICACION FAMILIAR Y EDUCACION SEXUAL"
+            },
+            "41":{
+                "id":"41",
+                "nombre":"NEONATOLOGIA"
+            },
+            "42":{
+                "id":"42",
+                "nombre":"PSICOPROFILAXIS OBSTETRICA Y ESTIMULACION PRE NATAL"
+            },
+            "43":{
+                "id":"43",
+                "nombre":"OBSTETRICIA PATOLOGICA"
+            },
+            "44":{
+                "id":"44",
+                "nombre":"PROYECTO DE TESIS"
+            },
+            "45":{
+                "id":"45",
+                "nombre":"INGLES  II"
+            },
+            "46":{
+                "id":"46",
+                "nombre":"INGLES  II"
+            },
+            "47":{
+                "id":"47",
+                "nombre":"INTERNADO  I"
+            },
+            "48":{
+                "id":"48",
+                "nombre":"INGLES  IV"
+            },
+            "49":{
+                "id":"49",
+                "nombre":"INTERNADO  II"
+            }
+        }
+    },
+    "20":{
+        "id":"20",
+        "nombre": "ODONTOLOGIA",
+        "asignaturas": {
+            "1":{
+                "id":"1",
+                "nombre":"MATEMATICA BASICA"
+            },
+            "2":{
+                "id":"2",
+                "nombre":"COMUNICACION "
+            },
+            "3":{
+                "id":"3",
+                "nombre":"METODOLOGIA DEL TRABAJO UNIVERSITARIO"
+            },
+            "4":{
+                "id":"4",
+                "nombre":"BIOLOGIA "
+            },
+            "5":{
+                "id":"5",
+                "nombre":"QUIMICA GENERAL"
+            },
+            "6":{
+                "id":"6",
+                "nombre":"OFIMATICA "
+            },
+            "7":{
+                "id":"7",
+                "nombre":"MICROBIOLOGIA DE LA SALUD"
+            },
+            "8":{
+                "id":"8",
+                "nombre":"HISTOLOGIA Y EMBRIOLOGIA GENERAL Y APLICADA"
+            },
+            "9":{
+                "id":"9",
+                "nombre":"ANATOMIA HUMANA "
+            },
+            "10":{
+                "id":"10",
+                "nombre":"METODOLOGIA DE LA INVESTIGACION CIENTIFICA"
+            },
+            "11":{
+                "id":"11",
+                "nombre":"BIOQUIMICA GENERAL"
+            },
+            "12":{
+                "id":"12",
+                "nombre":"DIAGNOSTICO ESTOMATOLOGICO"
+            },
+            "13":{
+                "id":"13",
+                "nombre":"ANATOMIA APLICADA DE CABEZA Y CUELLO  "
+            },
+            "14":{
+                "id":"14",
+                "nombre":"BIOMATERIALES ODONTOLOGICOS "
+            },
+            "15":{
+                "id":"15",
+                "nombre":"NEUROFISIOLOGIA GENERAL "
+            },
+            "16":{
+                "id":"16",
+                "nombre":"ANATOMIA DENTAL "
+            },
+            "17":{
+                "id":"17",
+                "nombre":"FARMACOLOGIA GENERAL Y TERAPEUTICA"
+            },
+            "18":{
+                "id":"18",
+                "nombre":"SALUD Y ESTOMATOLOGIA PREVENTIVA I"
+            },
+            "19":{
+                "id":"19",
+                "nombre":"CARIELOGIA "
+            },
+            "20":{
+                "id":"20",
+                "nombre":"BIOESTADISTICA E INFORMATICA EN SALUD"
+            },
+            "21":{
+                "id":"21",
+                "nombre":"RADIOLOGIA E IMAGENOLOGIA"
+            },
+            "22":{
+                "id":"22",
+                "nombre":"MEDICINA ESTOMATOLOGICA I"
+            },
+            "23":{
+                "id":"23",
+                "nombre":"ANATOMIA PATOLOGICA"
+            },
+            "24":{
+                "id":"24",
+                "nombre":"SALUD Y ESTOMATOLOGIA PREVENTIVA II"
+            },
+            "25":{
+                "id":"25",
+                "nombre":"PERIODONCIA I"
+            },
+            "26":{
+                "id":"26",
+                "nombre":"CIRUGIA BUCO MAXILO FACIAL I"
+            },
+            "27":{
+                "id":"27",
+                "nombre":"PROTESIS PARCIAL REMOVIBLE"
+            },
+            "28":{
+                "id":"28",
+                "nombre":"MEDICINA ESTOMATOLOGICA  II"
+            },
+            "29":{
+                "id":"29",
+                "nombre":"OCLUSION "
+            },
+            "30":{
+                "id":"30",
+                "nombre":"ETICA PROFESIONAL"
+            },
+            "31":{
+                "id":"31",
+                "nombre":"PROTESIS FIJAS "
+            },
+            "32":{
+                "id":"32",
+                "nombre":"PERIODONCIA  II"
+            },
+            "33":{
+                "id":"33",
+                "nombre":"CIRUGIA BUCO MAXILO FACIAL II"
+            },
+            "34":{
+                "id":"34",
+                "nombre":"ENDODONCIA  "
+            },
+            "35":{
+                "id":"35",
+                "nombre":"ODONTOLOGIA FORENSE"
+            },
+            "36":{
+                "id":"36",
+                "nombre":"ODONTOPEDIATRIA"
+            },
+            "37":{
+                "id":"37",
+                "nombre":"CLINICA ESTOMATOLOGICA INTEGRAL I"
+            },
+            "38":{
+                "id":"38",
+                "nombre":"ORTODONCIA   I"
+            },
+            "39":{
+                "id":"39",
+                "nombre":"CIRUGIA BUCOMAXILO FACIAL  III"
+            },
+            "40":{
+                "id":"40",
+                "nombre":"CLINICA ODONTOPEDIATRICA I"
+            },
+            "41":{
+                "id":"41",
+                "nombre":"INGLES  I"
+            },
+            "42":{
+                "id":"42",
+                "nombre":"PROTESIS COMPLETA"
+            },
+            "43":{
+                "id":"43",
+                "nombre":"CLINICA ESTOMATOLOGICA INTEGRAL II"
+            },
+            "44":{
+                "id":"44",
+                "nombre":"ORTODONCIA  II"
+            },
+            "45":{
+                "id":"45",
+                "nombre":"CIRUGIA Y TRAUMATOLOGIA BUCO MAXIMO FACIAL"
+            },
+            "46":{
+                "id":"46",
+                "nombre":"CLINICA ODONTOPEDIATRICA II"
+            },
+            "47":{
+                "id":"47",
+                "nombre":"PROYECTO DE TESIS"
+            },
+            "48":{
+                "id":"48",
+                "nombre":"INGLES  II"
+            },
+            "49":{
+                "id":"49",
+                "nombre":"INGLES  III"
+            },
+            "50":{
+                "id":"50",
+                "nombre":"INTERNADO ESTOMATOLOGICO"
+            },
+            "51":{
+                "id":"51",
+                "nombre":"INGLES  IV"
+            },
+            "52":{
+                "id":"52",
+                "nombre":"INTERNADO HOSPITALARIO"
+            }
+        }
+    },
+    "21":{
+        "id":"21",
+        "nombre": "PSICOLOGIA",
+        "asignaturas": {
+            "1":{
+                "id":"1",
+                "nombre":"MATEMATICA BASICA"
+            },
+            "2":{
+                "id":"2",
+                "nombre":"COMUNICACION "
+            },
+            "3":{
+                "id":"3",
+                "nombre":"FILOSOFIA"
+            },
+            "4":{
+                "id":"4",
+                "nombre":"METODOLOGIA DEL TRABAJO UNIVERSITARIO"
+            },
+            "5":{
+                "id":"5",
+                "nombre":"OFIMATICA"
+            },
+            "6":{
+                "id":"6",
+                "nombre":"INTRODUCCION A LA PSICOLOLGIA"
+            },
+            "7":{
+                "id":"7",
+                "nombre":"METODOS Y SISTEMAS PSICOLOGICAS"
+            },
+            "8":{
+                "id":"8",
+                "nombre":"COMUNICACION II"
+            },
+            "9":{
+                "id":"9",
+                "nombre":"REALIDAD PERUANA Y GLOBALIZACION"
+            },
+            "10":{
+                "id":"10",
+                "nombre":"PSICOLOGIA EVOLUTIVA  "
+            },
+            "11":{
+                "id":"11",
+                "nombre":"METODOLOGIA DE LA INVESTIGACION CIENTIFICA"
+            },
+            "12":{
+                "id":"12",
+                "nombre":"ADMINISTRACION EMPRESARIAL"
+            },
+            "13":{
+                "id":"13",
+                "nombre":"PSICOLOGIA DE LA PERSONALIDAD"
+            },
+            "14":{
+                "id":"14",
+                "nombre":"BIOLOGIA GENERAL"
+            },
+            "15":{
+                "id":"15",
+                "nombre":"MARKETING ESTRATEGICO"
+            },
+            "16":{
+                "id":"16",
+                "nombre":"DESARROLLO PSICOAFECTIVO Y COGNITIVO"
+            },
+            "17":{
+                "id":"17",
+                "nombre":"TECNICAS DE ENTREVISTA Y OBSERVACION "
+            },
+            "18":{
+                "id":"18",
+                "nombre":"ESTADISTICA DESCRIPTIVA"
+            },
+            "19":{
+                "id":"19",
+                "nombre":"PSICOLOGIA SEXUAL I"
+            },
+            "20":{
+                "id":"20",
+                "nombre":"PSICOLOGIA EXPERIMENTAL"
+            },
+            "21":{
+                "id":"21",
+                "nombre":"PSICOMETRIA"
+            },
+            "22":{
+                "id":"22",
+                "nombre":"PSICOLOGIA SOCIAL"
+            },
+            "23":{
+                "id":"23",
+                "nombre":"NEUROFISIOLOGIA "
+            },
+            "24":{
+                "id":"24",
+                "nombre":"COMPORTAMIENTO DEL CONSUMIDOR"
+            },
+            "25":{
+                "id":"25",
+                "nombre":"PSICOLOGIA SEXUAL II"
+            },
+            "26":{
+                "id":"26",
+                "nombre":"PSICOLOGIA DEL APRENDIZAJE"
+            },
+            "27":{
+                "id":"27",
+                "nombre":"PSICONEUROCIENCIA Y CONDUCTA I"
+            },
+            "28":{
+                "id":"28",
+                "nombre":"EVALUACION Y DIAGNOSTICO PSICOLOGICO"
+            },
+            "29":{
+                "id":"29",
+                "nombre":"PSICOLOGIA CLINICA"
+            },
+            "30":{
+                "id":"30",
+                "nombre":"GERENCIA ORGANIZACIONAL"
+            },
+            "31":{
+                "id":"31",
+                "nombre":"GESTION DEL TALENTO HUMANO"
+            },
+            "32":{
+                "id":"32",
+                "nombre":"INTRODUCCION A LA PSICOTERAPIA"
+            },
+            "33":{
+                "id":"33",
+                "nombre":"PSICONEUROCIENCIA Y CONDUCTA II"
+            },
+            "34":{
+                "id":"34",
+                "nombre":"PSICOLOGIA EDUCATIVA"
+            },
+            "35":{
+                "id":"35",
+                "nombre":"TECNICAS DE INTERVENCION   EN GRUPO"
+            },
+            "36":{
+                "id":"36",
+                "nombre":"PSICOLOGIA CLINICA Y DE LA SALUD"
+            },
+            "37":{
+                "id":"37",
+                "nombre":"NEUROPSICOLOGIA"
+            },
+            "38":{
+                "id":"38",
+                "nombre":"PROBLEMAS DE APRENDIZAJE II"
+            },
+            "39":{
+                "id":"39",
+                "nombre":"INGLES  I"
+            },
+            "40":{
+                "id":"40",
+                "nombre":"PSICOLOGIA PUBLICITARIA Y COMUNICACION"
+            },
+            "41":{
+                "id":"41",
+                "nombre":"INGLES  II"
+            },
+            "42":{
+                "id":"42",
+                "nombre":"TECNICAS DE INTERVENCION   ORGANIZACIONAL"
+            },
+            "43":{
+                "id":"43",
+                "nombre":"PSICOLOGIA EXPERIMENTAL"
+            },
+            "44":{
+                "id":"44",
+                "nombre":"EVALUACION CLINICA Y NEUROSICOLOGICA"
+            },
+            "45":{
+                "id":"45",
+                "nombre":"PROYECTO DE TESIS"
+            },
+            "46":{
+                "id":"46",
+                "nombre":"TECNICAS DE INVESTIGACION   CUALITATIVA"
+            },
+            "47":{
+                "id":"47",
+                "nombre":"INTERNADO I "
+            },
+            "48":{
+                "id":"48",
+                "nombre":"INGLES  III"
+            },
+            "49":{
+                "id":"49",
+                "nombre":"INGLES  IV"
+            },
+            "50":{
+                "id":"50",
+                "nombre":"INTERNADO II"
             }
         }
     }
